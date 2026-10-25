@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*.local
+firebase-debug.log
+functions/lib/
+functions/.env*
+demo-alert-email.html
+.claude/worktrees/
+firebase-debug.*.log
+.DS_Store
+
+# graphify knowledge graph (local only)
+graphify-out/
+
+# Chrome extension (separate repo)
+babab/

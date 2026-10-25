@@ -1,0 +1,70 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run build"
+      ]
+    },
+    {
+      "source": "predictive-pricing-engine",
+      "codebase": "ml",
+      "runtime": "python312",
+      "ignore": [
+        "venv", ".venv", ".cache", ".scratch", ".pytest_cache", "**/__pycache__",
+        "benchmarks", "scripts", "data/price_logs",
+        "**/*.lgb.txt", "ml_engine/model/weights/category_index_1m",
+        "requirements-dev.txt", "pytest.ini", "README.md", ".gitignore", ".gitattributes",
+        ".git", "firebase-debug.log", "firebase-debug.*.log"
+      ]
+    }
+  ],
+  "hosting": {
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/api/create-alert{,/**}",
+        "function": { "functionId": "createAlert", "region": "us-central1" }
+      },
+      {
+        "source": "/api/subscribe{,/**}",
+        "function": { "functionId": "subscribe", "region": "us-central1" }
+      },
+      {
+        "source": "/api/run-alert-check{,/**}",
+        "function": { "functionId": "runAlertCheckNow", "region": "us-central1" }
+      },
+      {
+        "source": "/api/search{,/**}",
+        "function": { "functionId": "searchLive", "region": "us-central1" }
+      },
+      {
+        "source": "/api/my-alerts{,/**}",
+        "function": { "functionId": "myAlerts", "region": "us-central1" }
+      },
+      {
+        "source": "/api/forecast{,/**}",
+        "function": { "functionId": "forecastPrice", "region": "us-central1" }
+      },
+      {
+        "source": "/api/insight{,/**}",
+        "function": { "functionId": "productInsight", "region": "us-central1" }
+      }
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
