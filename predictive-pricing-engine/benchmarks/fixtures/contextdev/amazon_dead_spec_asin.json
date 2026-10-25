@@ -1,0 +1,78 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.amazon.com/dp/B082DH1FWM",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 2.05,
+  "recorded_at": "2026-10-11T21:53:44Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.amazon.com/dp/B082DH1FWM",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": false,
+   "data": null,
+   "error_code": "NOT_FOUND",
+   "message": "The page returned HTTP 404."
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {},
+  "cache_metadata": {
+   "status": "miss",
+   "age_ms": 0
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 885
+  },
+  "request_id": "cbf5b3c5-d369-4638-aa40-3af0ad035576"
+ }
+}

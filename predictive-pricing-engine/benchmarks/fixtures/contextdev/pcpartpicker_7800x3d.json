@@ -1,0 +1,551 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+   "formats": {
+    "product": true,
+    "markdown": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 6.99,
+  "recorded_at": "2026-10-11T21:54:12Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": true,
+   "success": true,
+   "data": "This website uses cookies and other similar technologies for analytics and performance monitoring to help us improve the website. [Learn more](https://pcpartpicker.com/privacy/)\n\nOk\n\nCookie Policy\n\nThis website uses cookies for performance monitoring to help us improve the website. [Learn more](https://pcpartpicker.com/privacy/)\n\nDeclineAllow\n\n- [Back](https://pcpartpicker.com/products/cpu/)\n- [PCPartPicker](https://pcpartpicker.com/)\n\n- [Log In](https://pcpartpicker.com/accounts/login/)\n- [Register](https://pcpartpicker.com/accounts/register/)\n- AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkFinlandFranceGermanyHungaryIrelandItalyNetherlandsNew ZealandNorwayPolandPortugalRomaniaSaudi ArabiaSlovakiaSpainSwedenUnited KingdomUnited States\n- Light Mode\n\n- [Builder](https://pcpartpicker.com/list/)\n- [Products](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n- [Guides](https://pcpartpicker.com/guide/)\n- [Completed Builds](https://pcpartpicker.com/builds/)\n- [Trends](https://pcpartpicker.com/trends/)\n- [Benchmarks](https://pcpartpicker.com/benchmarks/)\n- [Forums](https://pcpartpicker.com/forums/)\n- - [CPUs](https://pcpartpicker.com/products/cpu/)\n - [CPU Coolers](https://pcpartpicker.com/products/cpu-cooler/)\n - [Motherboards](https://pcpartpicker.com/products/motherboard/)\n - [Memory](https://pcpartpicker.com/products/memory/)\n - [Storage](https://pcpartpicker.com/products/internal-hard-drive/)\n - [Video Cards](https://pcpartpicker.com/products/video-card/)\n - [Power Supplies](https://pcpartpicker.com/products/power-supply/)\n - [Cases](https://pcpartpicker.com/products/case/)\n\n - ## Peripherals\n\n - [Headphones](https://pcpartpicker.com/products/headphones/)\n - [Keyboards](https://pcpartpicker.com/products/keyboard/)\n - [Mice](https://pcpartpicker.com/products/mouse/)\n - [Speakers](https://pcpartpicker.com/products/speakers/)\n - [Webcams](https://pcpartpicker.com/products/webcam/)\n\n - ## Displays\n\n - [Monitors](https://pcpartpicker.com/products/monitor/)\n\n - ## Software\n\n - [Operating Systems](https://pcpartpicker.com/products/os/)\n\n - ## Expansion\n\n - [Sound Cards](https://pcpartpicker.com/products/sound-card/)\n - [Wired Networking](https://pcpartpicker.com/products/wired-network-card/)\n - [Wireless Networking](https://pcpartpicker.com/products/wireless-network-card/)\n\n - ## Accessories / Other\n\n - [Case Fans](https://pcpartpicker.com/products/case-fan/)\n - [Fan Controllers](https://pcpartpicker.com/products/fan-controller/)\n - [Thermal Compound](https://pcpartpicker.com/products/thermal-paste/)\n - [External Hard Drives](https://pcpartpicker.com/products/external-hard-drive/)\n - [Optical Drives](https://pcpartpicker.com/products/optical-drive/)\n - [Uninterruptible Power Supplies](https://pcpartpicker.com/products/ups/)\n\n[Search Products](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n- [Back](https://pcpartpicker.com/products/cpu/)\n- [PCPartPicker](https://pcpartpicker.com/)\n\n- [Builder](https://pcpartpicker.com/list/)\n- [Products](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n- [Search Products](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n- [Account](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n- [Resources](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n[Close](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n###### Search Products\n\n Search\n\n[Close](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n###### Products\n\n- [CPUs](https://pcpartpicker.com/products/cpu/)\n- [CPU Coolers](https://pcpartpicker.com/products/cpu-cooler/)\n- [Motherboards](https://pcpartpicker.com/products/motherboard/)\n- [Memory](https://pcpartpicker.com/products/memory/)\n- [Storage](https://pcpartpicker.com/products/internal-hard-drive/)\n- [Video Cards](https://pcpartpicker.com/products/video-card/)\n- [Power Supplies](https://pcpartpicker.com/products/power-supply/)\n- [Cases](https://pcpartpicker.com/products/case/)\n\n- ## Peripherals\n\n- [Headphones](https://pcpartpicker.com/products/headphones/)\n- [Keyboards](https://pcpartpicker.com/products/keyboard/)\n- [Mice](https://pcpartpicker.com/products/mouse/)\n- [Speakers](https://pcpartpicker.com/products/speakers/)\n- [Webcams](https://pcpartpicker.com/products/webcam/)\n\n- ## Displays\n\n- [Monitors](https://pcpartpicker.com/products/monitor/)\n\n- ## Software\n\n- [Operating Systems](https://pcpartpicker.com/products/os/)\n\n- ## Expansion\n\n- [Sound Cards](https://pcpartpicker.com/products/sound-card/)\n- [Wired Networking](https://pcpartpicker.com/products/wired-network-card/)\n- [Wireless Networking](https://pcpartpicker.com/products/wireless-network-card/)\n\n- ## Accessories / Other\n\n- [Case Fans](https://pcpartpicker.com/products/case-fan/)\n- [Fan Controllers](https://pcpartpicker.com/products/fan-controller/)\n- [Thermal Compound](https://pcpartpicker.com/products/thermal-paste/)\n- [External Hard Drives](https://pcpartpicker.com/products/external-hard-drive/)\n- [Optical Drives](https://pcpartpicker.com/products/optical-drive/)\n- [Uninterruptible Power Supplies](https://pcpartpicker.com/products/ups/)\n\n[Close](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n###### Account\n\n- AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkFinlandFranceGermanyHungaryIrelandItalyNetherlandsNew ZealandNorwayPolandPortugalRomaniaSaudi ArabiaSlovakiaSpainSwedenUnited KingdomUnited States\n- Light Mode\n\n- [Log In](https://pcpartpicker.com/accounts/login/)\n- [Register](https://pcpartpicker.com/accounts/register/)\n\n[Close](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n###### Resources\n\n- [Builder](https://pcpartpicker.com/list/)\n- [Products](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n- [Guides](https://pcpartpicker.com/guide/)\n- [Completed Builds](https://pcpartpicker.com/builds/)\n- [Trends](https://pcpartpicker.com/trends/)\n- [Benchmarks](https://pcpartpicker.com/benchmarks/)\n- [Forums](https://pcpartpicker.com/forums/)\n\n1. [CPU](https://pcpartpicker.com/products/cpu/)\n\n# AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor\n\n(677 Ratings, 5.0 Average)\n\n- [Details](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n- [Reviews](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n- \n\n[Product Image](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n- [Product Image](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\nQTY 1 [Add to Part List](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof#)\n\n###### User Ratings\n\n- (677 Ratings, 5.0 Average)\n\n| [5 Star](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=5) | \n | [96%](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=5) |\n| --- | --- | --- |\n| [4 Star](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=4) | \n\n | [4%](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=4) |\n| [3 Star](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=3) | \n\n | [0%](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=3) |\n| [2 Star](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=2) | \n\n | [0%](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=2) |\n| [1 Star](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=1) | \n\n | [0%](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof?rating=1) |\n\n[Log in to save to favorites](https://pcpartpicker.com/accounts/login/)\n\n[Log in to save to inventory](https://pcpartpicker.com/accounts/login/)\n\n## Performance Core Clock: 4.2 GHz\n\n- [3.6 GHz](https://pcpartpicker.com/product/dXmmP6/amd-ryzen-7-7700-36-ghz-8-core-processor-100-100000592box)\n- [4 GHz](https://pcpartpicker.com/product/pmwD4D/amd-ryzen-7-7700x3d-4-ghz-8-core-processor-100-100002235wof)\n- [4.2 GHz](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n- [4.5 GHz](https://pcpartpicker.com/product/WfqPxr/amd-ryzen-7-7700x-45-ghz-8-core-processor-100-100000591wof)\n\n## Performance Core Boost Clock: 5 GHz\n\n- [4.5 GHz](https://pcpartpicker.com/product/pmwD4D/amd-ryzen-7-7700x3d-4-ghz-8-core-processor-100-100002235wof)\n- [5 GHz](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n- [5.3 GHz](https://pcpartpicker.com/product/dXmmP6/amd-ryzen-7-7700-36-ghz-8-core-processor-100-100000592box)\n- [5.4 GHz](https://pcpartpicker.com/product/WfqPxr/amd-ryzen-7-7700x-45-ghz-8-core-processor-100-100000591wof)\n\n## TDP: 120 W\n\n- [65 W](https://pcpartpicker.com/product/dXmmP6/amd-ryzen-7-7700-36-ghz-8-core-processor-100-100000592box)\n- [105 W](https://pcpartpicker.com/product/WfqPxr/amd-ryzen-7-7700x-45-ghz-8-core-processor-100-100000591wof)\n- [120 W](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n\n## Includes Cooler: No\n\n- [Yes](https://pcpartpicker.com/product/dXmmP6/amd-ryzen-7-7700-36-ghz-8-core-processor-100-100000592box)\n- [No](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n\n## Packaging: Boxed\n\n- [Boxed](https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n- [OEM/Tray](https://pcpartpicker.com/product/CzZWGX/amd-ryzen-7-7800x3d-42-ghz-8-core-oemtray-processor-100-000000910)\n\n## Specifications\n\n### Manufacturer\n\nAMD\n\n### Part #\n\n- 100-100000910WOF\n- AMD Ryzen 7 7800X3D\n\n### Series\n\nAMD Ryzen 7\n\n### Microarchitecture\n\nZen 4\n\n### Core Family\n\nRaphael\n\n### Socket\n\nAM5\n\n### Core Count\n\n8\n\n### Thread Count\n\n16\n\n### Performance Core Clock\n\n4.2 GHz\n\n### Performance Core Boost Clock\n\n5 GHz\n\n### L2 Cache\n\n8 MB\n\n### L3 Cache\n\n96 MB\n\n### TDP\n\n120 W\n\n### Integrated Graphics\n\nRadeon\n\n### Maximum Supported Memory\n\n128 GB\n\n### ECC Support\n\nYes\n\n### Includes Cooler\n\nNo\n\n### Packaging\n\nBoxed\n\n### Lithography\n\n5 nm\n\n### Includes CPU Cooler\n\nNo\n\n### Simultaneous Multithreading\n\nYes\n\n## Compatible Parts\n\n- [View Compatible CPU Coolers](https://pcpartpicker.com/products/cpu-cooler/?compatible_with=3hyH99)\n- [View Compatible Motherboards](https://pcpartpicker.com/products/motherboard/?compatible_with=3hyH99)\n\n## Prices\n\n| Merchant | Base | Promo | Shipping | Tax | Availability | Total | |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| [Amazon](https://www.amazon.com/dp/B0BTZB7F88?tag=pcpapi-20&linkCode=ogi&th=1&psc=1&language=en_US) | $348.00 | | +FREE s/h | | In stock | [$348.00](https://www.amazon.com/dp/B0BTZB7F88?tag=pcpapi-20&linkCode=ogi&th=1&psc=1&language=en_US) | [Buy](https://www.amazon.com/dp/B0BTZB7F88?tag=pcpapi-20&linkCode=ogi&th=1&psc=1&language=en_US) |\n| (New from $348.00, Used from $330.60. Last updated 5 minutes ago.) |\n| [B&H](https://www.bhphotovideo.com/c/product/1753575-REG/amd_100_100000910wof_ryzen_7_7800x3d_4_2.html/BI/19488/KBID/11704) | $348.00 | | +FREE s/h | | In stock | [$348.00](https://www.bhphotovideo.com/c/product/1753575-REG/amd_100_100000910wof_ryzen_7_7800x3d_4_2.html/BI/19488/KBID/11704) | [Buy](https://www.bhphotovideo.com/c/product/1753575-REG/amd_100_100000910wof_ryzen_7_7800x3d_4_2.html/BI/19488/KBID/11704) |\n| [Newegg](https://click.linksynergy.com/deeplink?id=8BacdVP0GFs&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Famd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5%2Fp%2FN82E16819113793%3Fitem%3DN82E16819113793) | $389.00 | | +FREE s/h | | In stock | [$389.00](https://click.linksynergy.com/deeplink?id=8BacdVP0GFs&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Famd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5%2Fp%2FN82E16819113793%3Fitem%3DN82E16819113793) | [Buy](https://click.linksynergy.com/deeplink?id=8BacdVP0GFs&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Famd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5%2Fp%2FN82E16819113793%3Fitem%3DN82E16819113793) |\n| [Staples](https://staplescom.prf.hn/click/camref:1100l6t69f/creativeref:1101l215956/destination:https%3A%2F%2Fwww.staples.com%2Famd-ryzen-7-7000-7800x3d-8-core-4-2ghz-computer-processor-socket-am5-100-100000910wof%2Fproduct_24692259) | $393.99 | | +FREE s/h | | In stock | [$393.99](https://staplescom.prf.hn/click/camref:1100l6t69f/creativeref:1101l215956/destination:https%3A%2F%2Fwww.staples.com%2Famd-ryzen-7-7000-7800x3d-8-core-4-2ghz-computer-processor-socket-am5-100-100000910wof%2Fproduct_24692259) | [Buy](https://staplescom.prf.hn/click/camref:1100l6t69f/creativeref:1101l215956/destination:https%3A%2F%2Fwww.staples.com%2Famd-ryzen-7-7000-7800x3d-8-core-4-2ghz-computer-processor-socket-am5-100-100000910wof%2Fproduct_24692259) |\n| [Best Buy](https://api.bestbuy.com/click/-/6537139/pdp?IPID=79301) | $420.00 | | +FREE s/h | | In stock | [$420.00](https://api.bestbuy.com/click/-/6537139/pdp?IPID=79301) | [Buy](https://api.bestbuy.com/click/-/6537139/pdp?IPID=79301) |\n| [MemoryC](https://www.awin1.com/cread.php?awinmid=91785&awinaffid=127079&ued=https%3A%2F%2Fwww.memoryc.com%2F42715-amd-ryzen-7-7800x3d-4-2ghz-5-0-ghz-8-core-am5-desktop-processor-boxed.html) | $472.31 | | +FREE s/h | | Available soon | [$472.31](https://www.awin1.com/cread.php?awinmid=91785&awinaffid=127079&ued=https%3A%2F%2Fwww.memoryc.com%2F42715-amd-ryzen-7-7800x3d-4-2ghz-5-0-ghz-8-core-am5-desktop-processor-boxed.html) | [Buy](https://www.awin1.com/cread.php?awinmid=91785&awinaffid=127079&ued=https%3A%2F%2Fwww.memoryc.com%2F42715-amd-ryzen-7-7800x3d-4-2ghz-5-0-ghz-8-core-am5-desktop-processor-boxed.html) |\n\n\\* Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on Amazon.com at the time of purchase will apply to the purchase of this product.\n\n\\* PCPartPicker may receive compensation for purchases made at participating retailers linked on this site. This compensation does not affect what products or prices are displayed, or the order of prices listed. Learn more [here](https://pcpartpicker.com/disclosure/).\n\n## Price Alert\n\n[Log in](https://pcpartpicker.com/accounts/login/) to set a price alert on this product.\n\n## Specifications\n\n### Manufacturer\n\nAMD\n\n### Part #\n\n- 100-100000910WOF\n- AMD Ryzen 7 7800X3D\n\n### Series\n\nAMD Ryzen 7\n\n### Microarchitecture\n\nZen 4\n\n### Core Family\n\nRaphael\n\n### Socket\n\nAM5\n\n### Core Count\n\n8\n\n### Thread Count\n\n16\n\n### Performance Core Clock\n\n4.2 GHz\n\n### Performance Core Boost Clock\n\n5 GHz\n\n### L2 Cache\n\n8 MB\n\n### L3 Cache\n\n96 MB\n\n### TDP\n\n120 W\n\n### Integrated Graphics\n\nRadeon\n\n### Maximum Supported Memory\n\n128 GB\n\n### ECC Support\n\nYes\n\n### Includes Cooler\n\nNo\n\n### Packaging\n\nBoxed\n\n### Lithography\n\n5 nm\n\n### Includes CPU Cooler\n\nNo\n\n### Simultaneous Multithreading\n\nYes\n\n## Price History\n\nHistory: 60 days 120 days 180 days 1 year 2 years\n\n- Walmart\n- MemoryC\n- Newegg\n- B&H\n- Best Buy\n- Staples\n\nJun 15\n\nJun 29\n\nJul 13\n\nJul 27\n\nAug 10\n\nAug 24\n\nSep 07\n\nSep 21\n\nOct 05\n\n$300.00\n\n$350.00\n\n$400.00\n\n$450.00\n\n$500.00\n\n| | Walmart | |\n| --- | --- | --- |\n| | MemoryC | |\n| | Newegg | |\n| | B&H | |\n| | Best Buy | |\n| | Staples | |\n\n\\* Amazon pricing is not included in price history graphs.\n\n## Reviews\n\n[See All Reviews](https://pcpartpicker.com/product/3hyH99/reviews/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof)\n\n[mazlatan](https://pcpartpicker.com/user/mazlatan/)\n\n[mazlatan](https://pcpartpicker.com/user/mazlatan/)\n\n- 1 point\n- 11 days ago\n\nfrom completed build [first ever pc wowowowow](https://pcpartpicker.com/b/Yhd9TW)\n\nluv it\n\n[mkgross](https://pcpartpicker.com/user/mkgross/)\n\n[mkgross](https://pcpartpicker.com/user/mkgross/)\n\n- 6 points\n- 21 days ago\n\nfrom completed build [New Pc](https://pcpartpicker.com/b/p3jZxr)\n\nGood CPU, but I wish I would\u2019ve payed a little more for the 9800x3d\n\n[godtamale](https://pcpartpicker.com/user/godtamale/)\n\n[godtamale](https://pcpartpicker.com/user/godtamale/)\n\n- 11 points\n- 26 days ago\n\nfrom completed build [Your average fish tank](https://pcpartpicker.com/b/k9Xypg)\n\nNearly as much performance as a 9800x3d but for $100 less. One of the best cpu's rn\n\n[ImCalledTech](https://pcpartpicker.com/user/ImCalledTech/)\n\n[ImCalledTech](https://pcpartpicker.com/user/ImCalledTech/)\n\n- 3 points\n- 1 month ago\n\nfrom completed build [Upgraded PC](https://pcpartpicker.com/b/wGH2FT)\n\nGot it for great value at \u00a3265, works much better than my previous CPU, nothing really to complain about with this processor.\n\n[RC55_T](https://pcpartpicker.com/user/RC55_T/)\n\n[RC55\\_T](https://pcpartpicker.com/user/RC55_T/)\n\n- 5 points\n- 1 month ago\n\nfrom completed build [My 2026 build](https://pcpartpicker.com/b/J6mrxr)\n\nBeast of a CPU to keep up with my games without needing to grab a 9800x3d\n\n[winterbollox](https://pcpartpicker.com/user/winterbollox/)\n\n[winterbollox](https://pcpartpicker.com/user/winterbollox/)\n\n- 8 points\n- 1 month ago\n\nfrom completed build [Like a virgin](https://pcpartpicker.com/b/N8Xypg)\n\nexceptional performance\n\n[spiiicychips](https://pcpartpicker.com/user/spiiicychips/)\n\n[spiiicychips](https://pcpartpicker.com/user/spiiicychips/)\n\n- 11 points\n- 1 month ago\n\nfrom completed build [Project Microwave - Jonsbo D34](https://pcpartpicker.com/b/pcmrxr)\n\nSolid CPU and used primarily for gaming. She runs a little hot but all within normal range especially for gaming.\n\n[microatxenjoyer](https://pcpartpicker.com/user/microatxenjoyer/)\n\n[microatxenjoyer](https://pcpartpicker.com/user/microatxenjoyer/)\n\n- 7 points\n- 1 month ago\n\nfrom completed build [MIKU COMPUTERRRR](https://pcpartpicker.com/b/cssLrH)\n\nit was the absolute best when i bought it, and it still shreds. i wont need to replace it for a long time.\n\n[Hassanjagfer](https://pcpartpicker.com/user/Hassanjagfer/)\n\n[Hassanjagfer](https://pcpartpicker.com/user/Hassanjagfer/)\n\n- 3 points\n- 1 month ago\n\nfrom completed build [My pc I built as a thirteen year old](https://pcpartpicker.com/b/fZrD4D)\n\nGreat cpu cheaper than 9800x3d and pretty much the same performance\n\n[GunRunner_](https://pcpartpicker.com/user/GunRunner_/)\n\n[GunRunner\\_](https://pcpartpicker.com/user/GunRunner_/)\n\n- 3 points\n- 1 month ago\n\nfrom completed build [Mini-ITX PC Rebuild](https://pcpartpicker.com/b/jLjZxr)\n\nSolid gaming CPU. Its very efficient power-wise while still bringing a lot of power that should tackle any game you throw at it. Instillation is as easy as any other AM5 Socket CPU.\n\n## Compatible Parts\n\n- [View Compatible CPU Coolers](https://pcpartpicker.com/products/cpu-cooler/?compatible_with=3hyH99)\n- [View Compatible Motherboards](https://pcpartpicker.com/products/motherboard/?compatible_with=3hyH99)\n\n## Builds Using This Part\n\n[See All Builds](https://pcpartpicker.com/builds/?using=3hyH99)\n\n- [mooneu](https://pcpartpicker.com/user/mooneu/) [mooneu](https://pcpartpicker.com/user/mooneu/)\n\n # Minimal NR200P ITX SFF Build\n\n - AMD Ryzen 7 7800X3D\n - Radeon RX 7900 XTX\n\n $1940.75+\n\n 548 121\n\n- [CartierOnPC](https://pcpartpicker.com/user/CartierOnPC/) [CartierOnPC](https://pcpartpicker.com/user/CartierOnPC/)\n\n # Artifact\n\n - AMD Ryzen 7 7800X3D\n - Radeon RX 7900 XTX\n\n $1637.94+\n\n 446 108\n\n- [yeorenxo](https://pcpartpicker.com/user/yeorenxo/) [yeorenxo](https://pcpartpicker.com/user/yeorenxo/)\n\n # Y70 Touch - December 2023\n\n - AMD Ryzen 7 7800X3D\n - GeForce RTX 4070 Ti\n\n $1830.97+\n\n 437 166\n\n[PCPartPicker](https://pcpartpicker.com/)\n\n## PCPP\n\n- [Home](https://pcpartpicker.com/)\n- [Builder](https://pcpartpicker.com/list/)\n- [Products](https://pcpartpicker.com/products/)\n- [Guides](https://pcpartpicker.com/guide/)\n- [Completed Builds](https://pcpartpicker.com/builds/)\n- [Trends](https://pcpartpicker.com/trends/)\n- [Forums](https://pcpartpicker.com/forums/)\n\n## Account\n\n- [Log In](https://pcpartpicker.com/accounts/login/)\n- [Register](https://pcpartpicker.com/accounts/register/)\n\n## Company\n\n- [About](https://pcpartpicker.com/about/)\n- [Affiliate Disclosure](https://pcpartpicker.com/disclosure/)\n- [Contact & Import](https://pcpartpicker.com/contact/)\n- [Do Not Sell My Personal Information](https://pcpartpicker.com/do-not-sell-my-personal-information/)\n- [Privacy Policy](https://pcpartpicker.com/privacy/)\n- [Terms of Service](https://pcpartpicker.com/tos/)\n\n## Information\n\n- [Downloads](https://pcpartpicker.com/downloads/)\n- [Industry Code of Conduct](https://pcpartpicker.com/code-of-conduct/industry-affiliate/)\n- [User Code of Conduct](https://pcpartpicker.com/code-of-conduct/)\n\n\u00a92026 PCPartPicker, LLC. All rights reserved.\n\n1 1\n\n1 1"
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor",
+     "description": "The AMD Ryzen 7 7800X3D is a high-performance desktop processor featuring 8 cores and 16 threads, based on the Zen 4 microarchitecture with Raphael core family. It operates at a base clock of 4.2 GHz and can boost up to 5 GHz. It includes 8 MB of L2 cache and a large 96 MB L3 cache, supports up to 128 GB of memory with ECC support, and uses the AM5 socket. The processor has a TDP of 120 W, includes integrated Radeon graphics, and does not come with a CPU cooler. It is packaged boxed and manufactured using a 5 nm lithography process. It supports simultaneous multithreading for improved multitasking performance.",
+     "brand": null,
+     "sku": "100-100000910WOF",
+     "price": 348,
+     "regularPrice": 420,
+     "currency": "USD",
+     "availability": "in_stock",
+     "category": "Electronics",
+     "imageUrl": "http://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
+     "images": [
+      "http://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg"
+     ],
+     "dimensions": [],
+     "features": [
+      "8 cores",
+      "16 threads",
+      "Base clock 4.2 GHz",
+      "Boost clock up to 5 GHz",
+      "8 MB L2 cache",
+      "96 MB L3 cache",
+      "120 W TDP",
+      "Integrated Radeon graphics",
+      "Supports up to 128 GB memory",
+      "ECC memory support",
+      "AM5 socket",
+      "Zen 4 microarchitecture",
+      "No included CPU cooler",
+      "5 nm lithography",
+      "Simultaneous multithreading"
+     ],
+     "targetAudience": [
+      "PC enthusiasts",
+      "Gamers",
+      "Content creators",
+      "System builders"
+     ],
+     "tags": [
+      "CPU",
+      "Processor",
+      "AMD Ryzen 7",
+      "Zen 4",
+      "AM5",
+      "8-core",
+      "16-thread",
+      "Gaming CPU",
+      "Desktop processor"
+     ],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor (100-100000910WOF) - PCPartPicker",
+   "description": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor (100-100000910WOF)",
+   "language": "en",
+   "canonicalUrl": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+   "siteName": "PCPartPicker",
+   "image": "http://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
+   "favicon": "https://pcpartpicker.com/favicon-32x32.png",
+   "openGraph": {
+    "title": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor (100-100000910WOF) - PCPartPicker",
+    "type": "website",
+    "description": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor (100-100000910WOF)",
+    "image": "http://cdna.pcpartpicker.com/static/forever/images/product/f0e0e59d75066ec825667b71c31e3c83.256p.jpg",
+    "url": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof"
+   },
+   "alternates": [
+    {
+     "href": "https://au.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-au"
+    },
+    {
+     "href": "https://at.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-at"
+    },
+    {
+     "href": "https://be.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-be"
+    },
+    {
+     "href": "https://ca.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-ca"
+    },
+    {
+     "href": "https://cz.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-cz"
+    },
+    {
+     "href": "https://dk.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-dk"
+    },
+    {
+     "href": "https://fi.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-fi"
+    },
+    {
+     "href": "https://fr.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-fr"
+    },
+    {
+     "href": "https://de.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-de"
+    },
+    {
+     "href": "https://hu.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-hu"
+    },
+    {
+     "href": "https://ie.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-ie"
+    },
+    {
+     "href": "https://it.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-it"
+    },
+    {
+     "href": "https://nl.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-nl"
+    },
+    {
+     "href": "https://nz.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-nz"
+    },
+    {
+     "href": "https://no.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-no"
+    },
+    {
+     "href": "https://pl.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-pl"
+    },
+    {
+     "href": "https://pt.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-pt"
+    },
+    {
+     "href": "https://ro.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-ro"
+    },
+    {
+     "href": "https://sa.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-sa"
+    },
+    {
+     "href": "https://sk.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+     "hreflang": "en-sk"
+    }
+   ],
+   "headings": [
+    {
+     "level": 2,
+     "text": "Peripherals"
+    },
+    {
+     "level": 2,
+     "text": "Displays"
+    },
+    {
+     "level": 2,
+     "text": "Software"
+    },
+    {
+     "level": 2,
+     "text": "Expansion"
+    },
+    {
+     "level": 2,
+     "text": "Accessories / Other"
+    },
+    {
+     "level": 6,
+     "text": "Search Products"
+    },
+    {
+     "level": 6,
+     "text": "Products"
+    },
+    {
+     "level": 2,
+     "text": "Peripherals"
+    },
+    {
+     "level": 2,
+     "text": "Displays"
+    },
+    {
+     "level": 2,
+     "text": "Software"
+    },
+    {
+     "level": 2,
+     "text": "Expansion"
+    },
+    {
+     "level": 2,
+     "text": "Accessories / Other"
+    },
+    {
+     "level": 6,
+     "text": "Account"
+    },
+    {
+     "level": 6,
+     "text": "Resources"
+    },
+    {
+     "level": 1,
+     "text": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor"
+    },
+    {
+     "level": 6,
+     "text": "User Ratings"
+    },
+    {
+     "level": 2,
+     "text": "Performance Core Clock: 4.2 GHz"
+    },
+    {
+     "level": 2,
+     "text": "Performance Core Boost Clock: 5 GHz"
+    },
+    {
+     "level": 2,
+     "text": "TDP: 120 W"
+    },
+    {
+     "level": 2,
+     "text": "Includes Cooler: No"
+    },
+    {
+     "level": 2,
+     "text": "Packaging: Boxed"
+    },
+    {
+     "level": 2,
+     "text": "Specifications"
+    },
+    {
+     "level": 3,
+     "text": "Manufacturer"
+    },
+    {
+     "level": 3,
+     "text": "Part #"
+    },
+    {
+     "level": 3,
+     "text": "Series"
+    },
+    {
+     "level": 3,
+     "text": "Microarchitecture"
+    },
+    {
+     "level": 3,
+     "text": "Core Family"
+    },
+    {
+     "level": 3,
+     "text": "Socket"
+    },
+    {
+     "level": 3,
+     "text": "Core Count"
+    },
+    {
+     "level": 3,
+     "text": "Thread Count"
+    },
+    {
+     "level": 3,
+     "text": "Performance Core Clock"
+    },
+    {
+     "level": 3,
+     "text": "Performance Core Boost Clock"
+    },
+    {
+     "level": 3,
+     "text": "L2 Cache"
+    },
+    {
+     "level": 3,
+     "text": "L3 Cache"
+    },
+    {
+     "level": 3,
+     "text": "TDP"
+    },
+    {
+     "level": 3,
+     "text": "Integrated Graphics"
+    },
+    {
+     "level": 3,
+     "text": "Maximum Supported Memory"
+    },
+    {
+     "level": 3,
+     "text": "ECC Support"
+    },
+    {
+     "level": 3,
+     "text": "Includes Cooler"
+    },
+    {
+     "level": 3,
+     "text": "Packaging"
+    },
+    {
+     "level": 3,
+     "text": "Lithography"
+    },
+    {
+     "level": 3,
+     "text": "Includes CPU Cooler"
+    },
+    {
+     "level": 3,
+     "text": "Simultaneous Multithreading"
+    },
+    {
+     "level": 2,
+     "text": "Compatible Parts"
+    },
+    {
+     "level": 2,
+     "text": "Prices"
+    },
+    {
+     "level": 2,
+     "text": "Price Alert"
+    },
+    {
+     "level": 2,
+     "text": "Specifications"
+    },
+    {
+     "level": 3,
+     "text": "Manufacturer"
+    },
+    {
+     "level": 3,
+     "text": "Part #"
+    },
+    {
+     "level": 3,
+     "text": "Series"
+    },
+    {
+     "level": 3,
+     "text": "Microarchitecture"
+    },
+    {
+     "level": 3,
+     "text": "Core Family"
+    },
+    {
+     "level": 3,
+     "text": "Socket"
+    },
+    {
+     "level": 3,
+     "text": "Core Count"
+    },
+    {
+     "level": 3,
+     "text": "Thread Count"
+    },
+    {
+     "level": 3,
+     "text": "Performance Core Clock"
+    },
+    {
+     "level": 3,
+     "text": "Performance Core Boost Clock"
+    },
+    {
+     "level": 3,
+     "text": "L2 Cache"
+    },
+    {
+     "level": 3,
+     "text": "L3 Cache"
+    },
+    {
+     "level": 3,
+     "text": "TDP"
+    },
+    {
+     "level": 3,
+     "text": "Integrated Graphics"
+    },
+    {
+     "level": 3,
+     "text": "Maximum Supported Memory"
+    },
+    {
+     "level": 3,
+     "text": "ECC Support"
+    },
+    {
+     "level": 3,
+     "text": "Includes Cooler"
+    },
+    {
+     "level": 3,
+     "text": "Packaging"
+    },
+    {
+     "level": 3,
+     "text": "Lithography"
+    },
+    {
+     "level": 3,
+     "text": "Includes CPU Cooler"
+    },
+    {
+     "level": 3,
+     "text": "Simultaneous Multithreading"
+    },
+    {
+     "level": 2,
+     "text": "Price History"
+    },
+    {
+     "level": 2,
+     "text": "Reviews"
+    },
+    {
+     "level": 2,
+     "text": "Compatible Parts"
+    },
+    {
+     "level": 2,
+     "text": "Builds Using This Part"
+    },
+    {
+     "level": 1,
+     "text": "Minimal NR200P ITX SFF Build"
+    },
+    {
+     "level": 1,
+     "text": "Artifact"
+    },
+    {
+     "level": 1,
+     "text": "Y70 Touch - December 2023"
+    },
+    {
+     "level": 2,
+     "text": "PCPP"
+    },
+    {
+     "level": 2,
+     "text": "Account"
+    },
+    {
+     "level": 2,
+     "text": "Company"
+    },
+    {
+     "level": 2,
+     "text": "Information"
+    }
+   ],
+   "additionalMeta": {
+    "charset": "utf-8",
+    "x-ua-compatible": "IE=edge",
+    "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+    "format-detection": "telephone=no"
+   }
+  },
+  "cache_metadata": {
+   "status": "miss",
+   "age_ms": 0
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 879
+  },
+  "request_id": "a0a9c3fe-0b09-4d0d-ab46-506086ae1c32"
+ }
+}

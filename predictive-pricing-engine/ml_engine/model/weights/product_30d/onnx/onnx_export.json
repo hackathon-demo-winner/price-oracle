@@ -1,0 +1,67 @@
+{
+ "input_name": "input",
+ "input_dtype": "float32",
+ "features": [
+  "price_ratio_to_30d_avg",
+  "price_ratio_to_90d_high",
+  "price_ratio_to_all_time_low",
+  "price_ratio_to_all_time_high",
+  "price_ratio_to_all_time_avg",
+  "rolling_7d_volatility",
+  "rolling_30d_volatility",
+  "days_since_last_price_change",
+  "frequency_of_discounts_per_quarter",
+  "history_days",
+  "price_ratio_to_regular",
+  "log_price",
+  "retailer_encoded",
+  "product_category_encoded",
+  "is_first_party_seller",
+  "event_days_to_major_sale",
+  "in_sale_window_now",
+  "target_in_sale_window",
+  "month",
+  "category_cpi_3m_change",
+  "category_cpi_12m_change",
+  "cpi_inflation_probability_next_30d",
+  "consumer_spending_expansion_odds"
+ ],
+ "conformal_offsets": {
+  "interval_90": 0.001210465645179122,
+  "interval_50": -4.991729435387954e-06
+ },
+ "files": {
+  "p5": "p5.onnx",
+  "p25": "p25.onnx",
+  "p50": "p50.onnx",
+  "p75": "p75.onnx",
+  "p95": "p95.onnx"
+ },
+ "parity": {
+  "p5": {
+   "rows": 5000,
+   "max_abs_diff": 1.6311758144205157e-07,
+   "rows_over_1e-4": 0
+  },
+  "p25": {
+   "rows": 5000,
+   "max_abs_diff": 1.173725733272235e-07,
+   "rows_over_1e-4": 0
+  },
+  "p50": {
+   "rows": 5000,
+   "max_abs_diff": 1.0580838283313909e-07,
+   "rows_over_1e-4": 0
+  },
+  "p75": {
+   "rows": 5000,
+   "max_abs_diff": 1.7619644743227525e-07,
+   "rows_over_1e-4": 0
+  },
+  "p95": {
+   "rows": 5000,
+   "max_abs_diff": 0.00014379694014685085,
+   "rows_over_1e-4": 2
+  }
+ }
+}

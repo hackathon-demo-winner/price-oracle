@@ -1,0 +1,139 @@
+{
+ "source": "U.S. Bureau of Labor Statistics, CPI-U, U.S. city average, NSA (api.bls.gov v1)",
+ "fetched_at": "2026-10-11",
+ "series": {
+  "computer_hardware": {
+   "series_id": "CUUR0000SEEE01",
+   "bls_item": "Computers, peripherals, and smart home assistants",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "software": {
+   "series_id": "CUUR0000SEEE02",
+   "bls_item": "Computer software and accessories",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "phones_other_electronics": {
+   "series_id": "CUUR0000SEEE04",
+   "bls_item": "Telephone hardware, calculators, and other consumer information items",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "televisions": {
+   "series_id": "CUUR0000SERA01",
+   "bls_item": "Televisions",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "audio": {
+   "series_id": "CUUR0000SERA05",
+   "bls_item": "Audio equipment",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "appliances": {
+   "series_id": "CUUR0000SEHK",
+   "bls_item": "Appliances",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "major_appliances": {
+   "series_id": "CUUR0000SEHK01",
+   "bls_item": "Major appliances",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "small_appliances": {
+   "series_id": "CUUR0000SEHK02",
+   "bls_item": "Other appliances",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "furniture": {
+   "series_id": "CUUR0000SEHJ",
+   "bls_item": "Furniture and bedding",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "home_goods": {
+   "series_id": "CUUR0000SEHL",
+   "bls_item": "Other household equipment and furnishings",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "tools": {
+   "series_id": "CUUR0000SEHM",
+   "bls_item": "Tools, hardware, outdoor equipment and supplies",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "personal_care": {
+   "series_id": "CUUR0000SEGB",
+   "bls_item": "Personal care products",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "hair_dental_shaving": {
+   "series_id": "CUUR0000SEGB01",
+   "bls_item": "Hair, dental, shaving, and miscellaneous personal care products",
+   "months": 344,
+   "first": "1997-12-01",
+   "last": "2026-08-01"
+  },
+  "beauty": {
+   "series_id": "CUUR0000SEGB02",
+   "bls_item": "Cosmetics, perfume, bath, nail preparations and implements",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "toys": {
+   "series_id": "CUUR0000SERE01",
+   "bls_item": "Toys",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "sporting_goods": {
+   "series_id": "CUUR0000SERC",
+   "bls_item": "Sporting goods",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "photo": {
+   "series_id": "CUUR0000SERD01",
+   "bls_item": "Photographic equipment and supplies",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "apparel": {
+   "series_id": "CUUR0000SAA",
+   "bls_item": "Apparel",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  },
+  "footwear": {
+   "series_id": "CUUR0000SEAE",
+   "bls_item": "Footwear",
+   "months": 355,
+   "first": "1997-01-01",
+   "last": "2026-08-01"
+  }
+ }
+}

@@ -1,0 +1,525 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.newegg.com/p/N82E16819113793",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 8.33,
+  "recorded_at": "2026-10-11T21:54:35Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.newegg.com/amd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5/p/N82E16819113793",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "AMD Ryzen 7 7800X3D",
+     "description": "The AMD Ryzen 7 7800X3D is a desktop processor from the Ryzen 7 7000 Series featuring Zen 4 architecture. It has 8 cores with a base clock speed of 4.2 GHz and a max turbo frequency up to 5.0 GHz. It uses the AM5 socket and has a 120W TDP. The processor includes integrated AMD Radeon graphics but is recommended to be paired with a discrete GPU for gaming or graphic-intensive tasks. It features 96MB of L3 cache enabled by 3D V-Cache technology, enhancing gaming performance and responsiveness. No cooling device is included, so an aftermarket cooler compatible with AM5 is required.",
+     "brand": null,
+     "sku": "100-100000910WOF",
+     "price": null,
+     "regularPrice": null,
+     "currency": "USD",
+     "availability": "in_stock",
+     "category": "Electronics > Computer Components > CPU / Processor > Desktop CPU Processor",
+     "imageUrl": "https://c1.neweggimages.com/ProductImage/19-113-793-03.png",
+     "images": [
+      "https://c1.neweggimages.com/ProductImage/19-113-793-03.png",
+      "https://c1.neweggimages.com/productimage/nb640/19-113-793-03.png",
+      "https://c1.neweggimages.com/productimage/nb640/19-113-793-02.png",
+      "https://c1.neweggimages.com/productimage/nb640/19-113-793-04.png",
+      "https://c1.neweggimages.com/productimage/nb640/19-113-793-01.png",
+      "https://c1.neweggimages.com/ProductImageCompressAll60/19-113-793-03.png",
+      "https://c1.neweggimages.com/ProductImageCompressAll60/19-113-793-02.png"
+     ],
+     "dimensions": [
+      "Thermal Design Power: 120W"
+     ],
+     "features": [
+      "Zen 4 architecture",
+      "8 cores",
+      "Base clock 4.2 GHz",
+      "Max turbo frequency up to 5.0 GHz",
+      "Socket AM5",
+      "120W TDP",
+      "96MB L3 cache with 3D V-Cache technology",
+      "Integrated AMD Radeon graphics",
+      "No included cooler"
+     ],
+     "targetAudience": [
+      "PC gamers",
+      "Desktop PC builders",
+      "Tech enthusiasts"
+     ],
+     "tags": [
+      "AMD",
+      "Ryzen 7",
+      "7800X3D",
+      "Zen 4",
+      "AM5 socket",
+      "Desktop CPU",
+      "Gaming processor",
+      "3D V-Cache"
+     ],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF - Newegg.com",
+   "description": "Experience unparalleled performance with the AMD Ryzen 7 7800X3D. Featuring Zen 4 architecture, 8 cores, and integrated Radeon Graphics, this desktop CPU delivers high-speed processing and gaming excellence. Ideal for tech enthusiasts seeking power and efficiency.",
+   "language": "en",
+   "keywords": [
+    "Newegg",
+    "Newegg.com",
+    "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF"
+   ],
+   "canonicalUrl": "https://www.newegg.com/amd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5/p/N82E16819113793",
+   "image": "https://c1.neweggimages.com/ProductImage/19-113-793-03.png",
+   "favicon": "https://c1.neweggimages.com/WebResource/ngm/newegg.ico",
+   "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+   "openGraph": {
+    "image": "https://c1.neweggimages.com/ProductImage/19-113-793-03.png",
+    "description": "Buy AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF with fast shipping and top-rated customer service. Once you know, you Newegg!",
+    "title": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF - Newegg.com",
+    "url": "https://www.newegg.com/amd-ryzen-7-7800x3d-ryzen-7-7000-series-raphael-zen-4-socket-am5/p/N82E16819113793",
+    "type": "website"
+   },
+   "twitter": {
+    "card": "summary_large_image"
+   },
+   "headings": [
+    {
+     "level": 2,
+     "text": "Item#: N82E16819113793"
+    },
+    {
+     "level": 2,
+     "text": "Best Sellers"
+    },
+    {
+     "level": 1,
+     "text": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF"
+    },
+    {
+     "level": 2,
+     "text": "Free Cooler Master Elite Liquid 240mm AIO w/ purchase, limited offer"
+    },
+    {
+     "level": 3,
+     "text": "AMD RYZEN\u2122 7 7800X3D PROCESSOR"
+    },
+    {
+     "level": 3,
+     "text": "AMAZING GAMING PROCESSORS WITH AMD 3D V-CACHE\u2122 TECHNOLOGY"
+    },
+    {
+     "level": 3,
+     "text": "TECHNOLOGY THAT SAVES YOU TIME"
+    },
+    {
+     "level": 3,
+     "text": "UPGRADEABLE FOR YEARS TO COME"
+    },
+    {
+     "level": 3,
+     "text": "Technical Specifications \u2014 AMD Ryzen\u2122 7 7800X3D"
+    },
+    {
+     "level": 4,
+     "text": "Overview"
+    },
+    {
+     "level": 4,
+     "text": "Videos"
+    },
+    {
+     "level": 3,
+     "text": "---"
+    },
+    {
+     "level": 4,
+     "text": "Gallery"
+    },
+    {
+     "level": 6,
+     "text": "Images"
+    },
+    {
+     "level": 6,
+     "text": "Video and Models"
+    },
+    {
+     "level": 6,
+     "text": "enhanced-overview"
+    },
+    {
+     "level": 6,
+     "text": "about-brand"
+    },
+    {
+     "level": 6,
+     "text": "Documents"
+    },
+    {
+     "level": 6,
+     "text": "Additional-pdf1"
+    },
+    {
+     "level": 4,
+     "text": "About the Brand"
+    },
+    {
+     "level": 2,
+     "text": "Learn more about the Ryzen 7 7800X3D"
+    },
+    {
+     "level": 2,
+     "text": "Customer Reviews of Ryzen 7 7800X3D"
+    },
+    {
+     "level": 2,
+     "text": "Warranty & Returns"
+    },
+    {
+     "level": 3,
+     "text": "Warranty, Returns, And Additional Information"
+    },
+    {
+     "level": 4,
+     "text": "Warranty"
+    },
+    {
+     "level": 4,
+     "text": "Return Policies"
+    },
+    {
+     "level": 4,
+     "text": "Manufacturer Contact Info"
+    },
+    {
+     "level": 2,
+     "text": "More Buying Options"
+    },
+    {
+     "level": 3,
+     "text": "Return Policies"
+    },
+    {
+     "level": 3,
+     "text": "Return Policies"
+    },
+    {
+     "level": 3,
+     "text": "Return Policies"
+    },
+    {
+     "level": 3,
+     "text": "Return Policies"
+    }
+   ],
+   "additionalMeta": {
+    "charset": "utf-8",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer": "always",
+    "copyright": "\u00a9 2000-2026 Newegg Inc.",
+    "x-ua-compatible": "IE=edge",
+    "x-dns-prefetch-control": "on",
+    "format-detection": "telephone=no",
+    "viewport": "width=device-width"
+   },
+   "jsonLd": [
+    {
+     "@context": "http://schema.org",
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "item": {
+        "@id": "https://www.newegg.com/",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "item": {
+        "@id": "https://www.newegg.com/Components-Storage/Store/ID-1",
+        "name": "Components & Storage"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "item": {
+        "@id": "https://www.newegg.com/CPU-Processor/Category/ID-34",
+        "name": "CPU / Processor"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "item": {
+        "@id": "https://www.newegg.com/Desktop-CPU-Processor/SubCategory/ID-343",
+        "name": "Desktop CPU Processor"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 5,
+       "item": {
+        "@id": "https://www.newegg.com/AMD-Desktop-CPU-Processor/BrandSubCat/ID-1028-343",
+        "name": "AMD"
+       }
+      }
+     ]
+    },
+    {
+     "@context": "http://schema.org/",
+     "@type": "ImageObject",
+     "name": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF",
+     "thumbnailUrl": "https://c1.neweggimages.com/ProductImage/19-113-793-03.png"
+    },
+    {
+     "@context": "http://schema.org/",
+     "@type": "ImageObject",
+     "name": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF",
+     "thumbnailUrl": "https://c1.neweggimages.com/ProductImage/19-113-793-02.png"
+    },
+    {
+     "@context": "http://schema.org/",
+     "@type": "ImageObject",
+     "name": "AMD Ryzen 7 7800X3D - Ryzen 7 7000 Series Zen 4 8-Core 4.2 GHz - Socket AM5 120W - AMD Radeon Graphics Desktop Processor - 100-100000910WOF",
+     "thumbnailUrl": "https://c1.neweggimages.com/ProductImage/19-113-793-04.png"
+    },
+    {
+     "@context": "http://schema.org/",
+     "@type": "FAQPage",
+     "mainEntity": [
+      {
+       "@type": "Question",
+       "name": "Are there any known compatibility issues between the AMD Ryzen 7 7800X3D and specific AM5 motherboard chipsets or BIOS versions?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are no major compatibility issues reported between the AMD Ryzen 7 7800X3D and AM5 motherboards, but it does require a BIOS update on some early AM5 chipsets to run properly. Most X670 and B650 boards support the CPU out of the box or with simple BIOS flashing, thanks to AMD\u2019s consistent support for Zen 4 processors on these platforms.\n\nIf you\u2019re using a motherboard from the initial AM5 launch batch, double-check for the latest BIOS version before installation to avoid boot issues. Also, while this CPU has integrated Radeon graphics, pairing it with a discrete GPU is recommended for gaming or graphic-intensive tasks, as not all workloads fully leverage the iGPU."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What are the key performance improvements of the AMD Ryzen 7 7800X3D compared to the previous Ryzen 7 models?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compared to previous Ryzen 7 models, the 7800X3D stands out by using the new Zen 4 architecture with a significant boost in cache, specifically 96MB of L3 cache thanks to 3D V-Cache technology. This larger cache helps improve gaming and certain workloads by reducing latency and increasing data availability without a big jump in power consumption.\n\nKeep in mind, though, that while the extra cache benefits gaming and some apps, it may not dramatically improve tasks like rendering or content creation compared to a non-3D Ryzen 7. The 7800X3D also runs at a slightly lower boost clock than some earlier Ryzen 7 CPUs, so the trade-off is more about efficiency and gaming responsiveness rather than outright multi-threaded speed."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "does it have a cooler with it?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. No default AMD cooler is sufficient for it, so it does not ship with one. You will need to buy an aftermarket cooler, such as the Thermalright Peerless Assassin 120 SE."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "is this have fans?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It does not come with a cooler."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Does this item come with the Starfield game?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes"
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Q: What would you like to give feedback about?\nA: Product Information &amp;amp; Images - I request that your top line cpu description always includes the cpu&#39;s base speed. Currently, you state a speed which could be base or boost without defining it. If you show both, then it will be understood.",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The AMD Ryzen 7 7800X3D processor has a base frequency of 4.2 GHz and a max turbo frequency of up to 5.0 GHz."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "What is the recommended cooling solution and mounting procedure to ensure optimal thermal performance for the AMD Ryzen 7 7800X3D CPU?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This CPU has a 120W TDP, so a good-quality air cooler rated for at least 120W or a 240mm+ AIO liquid cooler will keep it running optimally. Make sure your cooler supports the AM5 socket mounting, and apply a thin, even layer of thermal paste before securely fastening the cooler to avoid hotspots.\n\nIf you plan on overclocking or pushing sustained heavy loads, a larger AIO or high-end air cooler will help maintain lower temps and boost longevity. Because it includes integrated Radeon graphics, heat density may be slightly higher, so ensure your case airflow is adequate for the chosen cooling solution."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is upgrading from an AMD Ryzen 5 3600 to the Ryzen 7 7800X3D worth it for gaming and multitasking performance improvements?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Upgrading from a Ryzen 5 3600 to the Ryzen 7 7800X3D will give you a noticeable boost in gaming and multitasking, mainly thanks to its Zen 4 architecture, 8 cores at 4.2 GHz, and a much larger 96MB L3 cache. The built-in Radeon graphics also add flexibility, and the newer AM5 socket means you're set for future upgrades.  \n\nKeep in mind, your gaming performance gain also depends heavily on your GPU\u2014if your graphics card is older or mid-range, you might not see the full CPU improvement at higher resolutions. For multitasking and applications that use more cores, this upgrade definitely shines, but make sure your motherboard supports AM5 and the required power delivery for that 120W TDP."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "Is the AMD Ryzen 7 7800X3D easier to install and more compatible with mainstream motherboards compared to the Intel Core i7-13700K?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The AMD Ryzen 7 7800X3D uses the AM5 socket, which is newer but designed to work with current mainstream motherboards, especially those based on AMD's 600 and 700 series chipsets. Installation is straightforward if your motherboard supports AM5 out of the box, and it benefits from modern features like DDR5 and PCIe 5.0.\n\nCompared to the Intel Core i7-13700K, which uses the LGA 1700 socket, the Ryzen\u2019s platform may require a newer motherboard purchase, whereas the Intel chip often fits into an existing 12th or 13th Gen compatible board. Also, the Ryzen\u2019s integrated Radeon graphics can be an advantage if you don't have a separate GPU, while the Intel chip relies on its own UHD Graphics."
+       }
+      },
+      {
+       "@type": "Question",
+       "name": "How does the AMD Ryzen 7 7800X3D perform in gaming?",
+       "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The AMD Ryzen 7 7800X3D is highly praised for its exceptional gaming performance, with many users noting significant frame rate improvements across various games. It provides top-tier performance and enhances gaming experiences, resulting in smoother gameplay and improved responsiveness."
+       }
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "ItemList",
+     "name": "Real-World Use Scenarios",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "When building a PC mainly for gaming, expect strong performance in many games, especially titles that benefit from extra cache; results vary by game, so it won\u2019t improve every title equally."
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "For high-refresh gaming at 1080p, or in CPU-heavy games such as flight simulators, it can help maintain high frame rates when the processor is the limiting factor; the graphics card and game settings still affect the result."
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "When playing at 1440p with demanding graphics settings, the GPU often has more influence on frame rates than the CPU; upgrading to this processor may make little difference in games that are already GPU-limited."
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "For gaming with Discord, browser tabs, or a stream running in the background, community users report that it handles typical gaming-related multitasking; streaming results also depend on the game, settings, and whether encoding is handled by the GPU."
+      },
+      {
+       "@type": "ListItem",
+       "position": 5,
+       "name": "For occasional hobby editing or general desktop work alongside gaming, it can be usable, but people who regularly render video or run other sustained, heavily threaded workloads may prefer a CPU aimed more at productivity."
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "ItemList",
+     "name": "Recommended For",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "Gaming-first desktop builders who want high frame rates and strong CPU performance in games that benefit from 3D V-Cache, especially when paired with a discrete graphics card."
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "High-refresh-rate sim racers and competitive-game players who want to improve frame rates in CPU-sensitive titles; review testing found particularly strong results in Assetto Corsa Competizione and Shadow of the Tomb Raider."
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "Gamers who also edit photos or make occasional short videos, but prioritize gaming over fast professional rendering, encoding, or other sustained CPU-heavy work."
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "ItemList",
+     "name": "Not Recommended For",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "name": "People whose main workload is professional CPU rendering, frequent video encoding, or other sustained multi-core production work; benchmarks show that higher-core-count options can finish these tasks faster."
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "name": "Builders who need a drop-in CPU upgrade for an existing AM4 system; this processor uses the AM5 socket, so the upgrade requires an AM5 motherboard."
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "name": "People expecting to play demanding modern games using only the processor\u2019s integrated Radeon graphics; testing describes the integrated GPU as limited, so plan on a discrete graphics card for gaming."
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "name": "Players whose games are already limited by their graphics card\u2014often at high resolutions or demanding settings\u2014who expect a CPU change alone to deliver a large frame-rate increase."
+      }
+     ]
+    }
+   ]
+  },
+  "cache_metadata": {
+   "status": "miss",
+   "age_ms": 0
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 875
+  },
+  "request_id": "bd94ac7e-3638-44c9-98d6-65010bbe8714"
+ }
+}

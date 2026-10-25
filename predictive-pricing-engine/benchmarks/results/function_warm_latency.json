@@ -1,0 +1,4 @@
+{
+ "calls": 300,
+ "mean_ms_per_request_through_wrapper": 0.307
+}

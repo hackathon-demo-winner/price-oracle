@@ -1,0 +1,11 @@
+{
+ "scenario": "cold_single_slot",
+ "queries": 20,
+ "scraper": "SIMULATED",
+ "max_s": 34.999,
+ "p95_s": 34.999,
+ "p50_s": 34.999,
+ "ok": 1,
+ "timeout": 19,
+ "error": 0
+}

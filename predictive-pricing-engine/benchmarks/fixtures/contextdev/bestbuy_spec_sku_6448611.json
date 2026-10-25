@@ -1,0 +1,624 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.bestbuy.com/site/corsair-vengeance-32gb/6448611.p",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 19.88,
+  "recorded_at": "2026-10-11T21:54:05Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.bestbuy.com/product/corsair-vengeance-lpx-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHH5FH5",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "CORSAIR - VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory - Black",
+     "description": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the custom performance PCB helps manage heat and provides superior overclocking headroom. Each IC is individually screened for performance potential. The DDR4 form factor is optimized for the latest Intel DDR4 motherboards and offers higher frequencies, greater bandwidth, and lower power consumption than DDR3 modules. Vengeance LPX DDR4 modules are compatibility-tested across Intel DDR4 motherboards for reliably fast performance.",
+     "brand": "CORSAIR",
+     "sku": "6448611",
+     "price": 249.99,
+     "regularPrice": null,
+     "currency": "USD",
+     "availability": "in_stock",
+     "category": null,
+     "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448611_sd.jpg",
+     "images": [
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448611_sd.jpg"
+     ],
+     "dimensions": [],
+     "features": [
+      "Type of Memory (RAM): DDR4",
+      "Form Factor: Desktop",
+      "Speed: 3200 megahertz",
+      "Latency: 16-20-20-38",
+      "CAS Latency: 16",
+      "Lighting Type: None",
+      "Performance Profile(s): Intel XMP 2.0",
+      "Memory Capacity (per Module): 16 gigabytes",
+      "Memory Capacity (Total): 32 gigabytes",
+      "Brand: CORSAIR",
+      "Model Number: CMK32GX4M2E3200C16",
+      "Product Name: VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory",
+      "Color: Black",
+      "Memory Capacity (per Module): 16 gigabytes",
+      "Number Of Modules: 2",
+      "Memory Capacity (Total): 32 gigabytes",
+      "Type of Memory (RAM): DDR4",
+      "Pin Configuration: 288",
+      "Memory Format: UDIMM",
+      "Form Factor: Desktop",
+      "Minimum System Requirements: Not Applicable",
+      "Operating System Compatibility: Windows",
+      "Memory Speed Rating: PC4-25600",
+      "Speed: 3200 megahertz",
+      "Latency: 16-20-20-38",
+      "CAS Latency: 16",
+      "Buffered or Registered: Unbuffered",
+      "Data Integrity Check: Non-ECC",
+      "Memory Channels: Quad",
+      "Lighting Type: None",
+      "Fan Included: false",
+      "Performance Profile(s): Intel XMP 2.0",
+      "Voltage: 1.2 volts",
+      "Warranty - Parts: Limited lifetime",
+      "Warranty - Labor: Limited lifetime",
+      "UPC: 840006608547"
+     ],
+     "targetAudience": [],
+     "tags": [],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "CORSAIR VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory Black - Best Buy",
+   "description": "Shop CORSAIR VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory Black products at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+   "language": "en",
+   "canonicalUrl": "https://www.bestbuy.com/product/corsair-vengeance-lpx-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHH5FH5",
+   "siteName": "BestBuy.com",
+   "favicon": "https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/favicon-32-72227.png",
+   "headings": [
+    {
+     "level": 1,
+     "text": "CORSAIR - VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory - Black"
+    },
+    {
+     "level": 2,
+     "text": "Customers are saying"
+    },
+    {
+     "level": 2,
+     "text": "Speed:"
+    },
+    {
+     "level": 2,
+     "text": "Memory Capacity (Total):"
+    },
+    {
+     "level": 2,
+     "text": "More options from Best Buy and Marketplace sellers"
+    },
+    {
+     "level": 2,
+     "text": "Key Accessories:"
+    },
+    {
+     "level": 3,
+     "text": "Features"
+    },
+    {
+     "level": 4,
+     "text": "Hand-Sorted Memory Chips"
+    },
+    {
+     "level": 4,
+     "text": "Wide System Compatibility"
+    },
+    {
+     "level": 4,
+     "text": "Low-Profile"
+    },
+    {
+     "level": 4,
+     "text": "High-Performance PCB"
+    },
+    {
+     "level": 4,
+     "text": "Solid Aluminum Heatspreader"
+    },
+    {
+     "level": 4,
+     "text": "Intel XMP 2.0 Support"
+    },
+    {
+     "level": 4,
+     "text": "Match Your System\u2019s Style"
+    },
+    {
+     "level": 4,
+     "text": "Limited Lifetime Warranty"
+    },
+    {
+     "level": 3,
+     "text": "Specifications"
+    },
+    {
+     "level": 2,
+     "text": "Reviews"
+    },
+    {
+     "level": 2,
+     "text": "Questions & Answers"
+    }
+   ],
+   "additionalMeta": {
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+    "analytics-metadata": "{\"product\":{\"skuId\":\"6448611\",\"bsin\":\"J39QHH5FH5\",\"price\":\"315.99\",\"brand\":\"CORSAIR\",\"dept\":\"6\",\"class\":\"161\",\"subclass\":\"915\"},\"page\":{\"type\":\"browse,PDP\",\"name\":\"Product Detail Page\",\"breadcrumbs\":[\"Best Buy\",\"Computers & Tablets\",\"Computer Cards & Components\",\"Computer Memory (RAM)\"],\"uberCat\":\"Computers & Tablets\",\"parentCat\":\"Computer Cards & Components\",\"cat\":\"Computer Memory (RAM)\"}}",
+    "theme-color": "#0046be",
+    "msapplication-tooltip": "BestBuy - Let's talk about what's possible.",
+    "msapplication-config": "/~assets/bby/_com/shop/global-metadata/dist/client/IEconfig.xml"
+   },
+   "jsonLd": [
+    {
+     "@context": "http://schema.org",
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "item": {
+        "@id": "https://www.bestbuy.com/",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "item": {
+        "@id": "https://www.bestbuy.com/site/electronics/computers-pcs/abcat0500000.c?id=abcat0500000",
+        "name": "Computers & Tablets"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "item": {
+        "@id": "https://www.bestbuy.com/site/computers-pcs/computer-cards-components/abcat0507000.c?id=abcat0507000",
+        "name": "Computer Cards & Components"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 4,
+       "item": {
+        "@id": "https://www.bestbuy.com/site/computer-cards-components/computer-memory/abcat0506000.c?id=abcat0506000",
+        "name": "Computer Memory (RAM)"
+       }
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org/",
+     "@type": "Product",
+     "name": "CORSAIR - VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory - Black",
+     "image": [
+      {
+       "@type": "ImageObject",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448611_sd.jpg",
+       "thumbnailUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6448/6448611_sd.jpg"
+      }
+     ],
+     "url": "https://www.bestbuy.com/product/corsair-vengeance-lpx-32gb-2x16gb-ddr4-3200mhz-c16-udimm-desktop-memory-black/J39QHH5FH5",
+     "description": "Vengeance LPX memory is designed for high-performance overclocking. The heatspreader is made of pure aluminum for faster heat dissipation, and the custom performance PCB helps manage heat and provides superior overclocking headroom. Each IC is individually screened for performance potential.  The DDR4 form factor is optimized for the latest Intel DDR4 motherboards and offers higher frequencies, greater bandwidth, and lower power consumption than DDR3 modules. Vengeance LPX DDR4 modules are compatibility-tested across Intel DDR4 motherboards for reliably fast performance.",
+     "sku": "6448611",
+     "model": "CMK32GX4M2E3200C16",
+     "color": "Black",
+     "brand": {
+      "@type": "Brand",
+      "name": "CORSAIR"
+     },
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.9,
+      "reviewCount": 3238,
+      "url": "https://www.bestbuy.com/product/name/J39QHH5FH5/sku/6448611/reviews"
+     },
+     "offers": [
+      {
+       "@type": "Offer",
+       "priceCurrency": "USD",
+       "price": 249.99,
+       "availability": "https://schema.org/InStock",
+       "itemCondition": "https://schema.org/NewCondition",
+       "description": "New",
+       "sku": "6448611",
+       "seller": {
+        "@type": "Organization",
+        "name": "Best Buy",
+        "availableDeliveryMethod": [
+         "PICKUP",
+         "SHIPPING"
+        ]
+       },
+       "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "url": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+        "additionalProperty": [
+         {
+          "@type": "PropertyValue",
+          "name": "Return Policy Link",
+          "value": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014"
+         }
+        ]
+       }
+      }
+     ],
+     "review": [
+      {
+       "@type": "Review",
+       "name": "Works great",
+       "author": {
+        "@type": "Person",
+        "name": "XANDERB"
+       },
+       "reviewBody": "I was looking to upgrade my ram as i only had 8gb with 3000hz speed before but after i upgraded to this i could immediately tell this difference it preforms amazing and has a speed of 3600hz akso for a great price especially during the rampocalypse",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Good Investment",
+       "author": {
+        "@type": "Person",
+        "name": "TerryC"
+       },
+       "reviewBody": "Installed easily. Works GREAT! Reasonable price. And compatible with my HP Omen Desktop.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Exceeds expectations",
+       "author": {
+        "@type": "Person",
+        "name": "AnthonyP"
+       },
+       "reviewBody": "WORKS SO GOOD!  I had HyperX Beast 16GB 3733mhz in my Omen 30L previously and can tell the difference with 32GB of corsairs ram. Even with it lowering to 3200mhz I didn\u2019t notice any lag or delay in the system launching any game or software. Amazing ram for the price!",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Another great product by Corsair.",
+       "author": {
+        "@type": "Person",
+        "name": "Levon"
+       },
+       "reviewBody": "I got this because I really needed the jump from 16GBs of Ram to 32GBs. I'm shocked this ram was on sale during the ram shortage the world is going through. This ram plugged right in and was recognized by my motherboard no problem. They may not be pretty RGB but these sticks are super reliable.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Good ram",
+       "author": {
+        "@type": "Person",
+        "name": "Kman"
+       },
+       "reviewBody": "Amazing ram. Good price, low profile stuff so it fit under the cooler i got with the processor. Set xmp profile and it actually set n stayed at xmp settings, no lights or flashy rgb, just good ole ram with decent capacity.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      }
+     ],
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Type of Memory (RAM)",
+       "value": "DDR4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Form Factor",
+       "value": "Desktop"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Speed",
+       "value": "3200 megahertz"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Latency",
+       "value": "16-20-20-38"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "CAS Latency",
+       "value": "16"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Lighting Type",
+       "value": "None"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Performance Profile(s)",
+       "value": "Intel XMP 2.0"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Capacity (per Module)",
+       "value": "16 gigabytes"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Capacity (Total)",
+       "value": "32 gigabytes"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Brand",
+       "value": "CORSAIR"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Model Number",
+       "value": "CMK32GX4M2E3200C16"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Name",
+       "value": "VENGEANCE LPX 32GB (2x16GB) DDR4 3200MHz C16 UDIMM Desktop Memory"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Color",
+       "value": "Black"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Capacity (per Module)",
+       "value": "16 gigabytes"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Number Of Modules",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Capacity (Total)",
+       "value": "32 gigabytes"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Type of Memory (RAM)",
+       "value": "DDR4"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Pin Configuration",
+       "value": "288"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Format",
+       "value": "UDIMM"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Form Factor",
+       "value": "Desktop"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Minimum System Requirements",
+       "value": "Not Applicable"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Operating System Compatibility",
+       "value": "Windows"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Speed Rating",
+       "value": "PC4-25600"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Speed",
+       "value": "3200 megahertz"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Latency",
+       "value": "16-20-20-38"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "CAS Latency",
+       "value": "16"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Buffered or Registered",
+       "value": "Unbuffered"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Data Integrity Check",
+       "value": "Non-ECC"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Memory Channels",
+       "value": "Quad"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Lighting Type",
+       "value": "None"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Fan Included",
+       "value": "false"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Performance Profile(s)",
+       "value": "Intel XMP 2.0"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Voltage",
+       "value": "1.2 volts"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Warranty - Parts",
+       "value": "Limited lifetime"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Warranty - Labor",
+       "value": "Limited lifetime"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "UPC",
+       "value": "840006608547"
+      }
+     ],
+     "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "url": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+      "additionalProperty": [
+       {
+        "@type": "PropertyValue",
+        "name": "Return Policy Link",
+        "value": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014"
+       }
+      ]
+     }
+    },
+    {
+     "@context": "https://schema.org/",
+     "@type": "ItemList",
+     "itemListElement": [
+      {
+       "@type": "VideoObject",
+       "position": 1,
+       "name": "CORSAIR How to Build a PC - How To Video",
+       "description": "CORSAIR How to Build a PC - How To Video",
+       "duration": "PT1M34S",
+       "thumbnailUrl": "https://pisces.bbystatic.com/prescaled/180/320/image2/BestBuy_US/images/videos/1684100378.jpg",
+       "contentUrl": "https://res.cloudinary.com/bby-product/video/upload/c_limit,h_960,w_960/q_auto:eco/v1728424378/1684100378.mp4",
+       "uploadDate": "2024-10-08T21:52:58+0000",
+       "fileFormat": "video/1684100378",
+       "caption": "https://res.cloudinary.com/bby-product/raw/upload/v1728352680/1684100378_en_us.vtt"
+      }
+     ]
+    }
+   ]
+  },
+  "cache_metadata": {
+   "status": "miss",
+   "age_ms": 0
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 881
+  },
+  "request_id": "199552d3-1e60-479f-b535-1e3de74624ce"
+ }
+}

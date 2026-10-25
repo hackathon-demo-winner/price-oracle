@@ -1,0 +1,54 @@
+{
+ "request": {
+  "currentPrice": 249.69,
+  "regularPrice": null,
+  "category": null,
+  "retailer": "bestbuy",
+  "title": "Apple - AirPods Pro 2, Wireless Active Noise Cancelling Earbuds - White",
+  "productId": "6447382"
+ },
+ "as_of": "2026-10-11",
+ "response": {
+  "success": true,
+  "forecast": {
+   "currentPrice": 249.69,
+   "quantiles": {
+    "lowest": 207.21,
+    "low": 246.92,
+    "mid": 250.63,
+    "high": 251.48,
+    "highest": 298.93
+   },
+   "projectedMid": 250.63,
+   "deltaPercentMonth": 0.4,
+   "recommendation": "FAIR PRICE",
+   "subtitle": "Within the model's typical 30-day range ($246.92 to $251.48)",
+   "confidence": null,
+   "model": {
+    "name": "product_30d",
+    "version": "2026-10-11-945d3da7",
+    "trainedOn": "synthetic",
+    "trainedAt": "2026-10-11T22:10:04Z",
+    "horizonDays": 30,
+    "historyMode": "snapshot_only",
+    "category": "audio",
+    "retailer": "bestbuy"
+   },
+   "macro": {
+    "source": "Gemini Prediction Markets",
+    "signals": {
+     "cpi_inflation_probability_next_30d": null,
+     "consumer_spending_expansion_odds": null,
+     "fed_hike_probability_next_meeting": 0.185,
+     "fed_cut_probability_next_meeting": 0.025,
+     "recession_probability": 0.035,
+     "unemployment_above_5pct_probability": 0.115,
+     "gdp_growth_above_2pct_probability": 0.8664
+    },
+    "fetchedAt": "2026-10-11T22:49:01Z",
+    "usedByModel": false,
+    "heuristicAdjustmentPercent": 0.38
+   }
+  }
+ }
+}

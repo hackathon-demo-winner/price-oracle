@@ -1,0 +1,463 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.amazon.com/dp/B0CHWRXH8B",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 0.76,
+  "recorded_at": "2026-10-11T21:53:42Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.amazon.com/dp/B0CHWRXH8B",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White",
+     "description": "RICHER AUDIO EXPERIENCE \u2014 The Apple-designed H2 chip helps to create more intelligent noise cancellation and deeply immersive sound. The low-distortion, custom-built driver delivers crisp, clear high notes and full, rich bass in stunning definition. NEXT-LEVEL ACTIVE NOISE CANCELLATION \u2014 Up to 2x more Active Noise Cancellation for dramatically less noise when you want to focus. Transparency mode lets you hear the world around you, and Adaptive Audio seamlessly blends Active Noise Cancellation and Transparency mode for the best listening experience in any environment. CUSTOMIZABLE FIT \u2014 Includes four pairs of silicone tips (XS, S, M, L) to fit a wide range of ears and provide all-day comfort. The tips create an acoustic seal to help keep out noise and secure AirPods Pro in place.",
+     "brand": "Apple",
+     "sku": "B0CHWRXH8B",
+     "price": 263.86,
+     "regularPrice": null,
+     "currency": "USD",
+     "availability": "in_stock",
+     "category": null,
+     "imageUrl": "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SL1500_.jpg",
+     "images": [
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX342_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX385_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX425_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/51NRGHU2NoL._AC_SX569_.jpg"
+     ],
+     "dimensions": [],
+     "features": [
+      "RICHER AUDIO EXPERIENCE \u2014 The Apple-designed H2 chip helps to create more intelligent noise cancellation and deeply immersive sound. The low-distortion, custom-built driver delivers crisp, clear high notes and full, rich bass in stunning definition.",
+      "NEXT-LEVEL ACTIVE NOISE CANCELLATION \u2014 Up to 2x more Active Noise Cancellation for dramatically less noise when you want to focus. Transparency mode lets you hear the world around you, and Adaptive Audio seamlessly blends Active Noise Cancellation and Transparency mode for the best listening experience in any environment.",
+      "CUSTOMIZABLE FIT \u2014 Includes four pairs of silicone tips (XS, S, M, L) to fit a wide range of ears and provide all-day comfort. The tips create an acoustic seal to help keep out noise and secure AirPods Pro in place."
+     ],
+     "targetAudience": [],
+     "tags": [],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "Amazon.com: Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White : Electronics",
+   "description": "Buy Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White: Earbud Headphones - Amazon.com \u2713 FREE DELIVERY possible on eligible purchases",
+   "language": "en-us",
+   "canonicalUrl": "https://www.amazon.com/clp/B0CHWRXH8B",
+   "headings": [
+    {
+     "level": 2,
+     "text": "Skip to"
+    },
+    {
+     "level": 2,
+     "text": "Keyboard shortcuts"
+    },
+    {
+     "level": 3,
+     "text": "Add to your order"
+    },
+    {
+     "level": 3,
+     "text": "Add to your order"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 5,
+     "text": "Buy New #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-whole { font-size: 28px !important; } #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-fraction, #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-symbol { top: -0.75em; font-size: 13px; } /* Hide Rufus ingress in collapsed accordion rows, show only when active */ #buybox .a-accordion .rufus-ingress-div-block, #buybox .a-accordion .rufus-ingress-badge{ display: none; } #buybox .a-accordion .a-accordion-active .rufus-ingress-div-block, #buybox .a-accordion .a-accordion-active .rufus-ingress-badge{ display: block; } $263.86$263.86 FREE delivery Friday, October 16 Ships from: 6ave Sold by: 6ave"
+    },
+    {
+     "level": 2,
+     "text": "2-Year Headphones Protection Plan"
+    },
+    {
+     "level": 2,
+     "text": "3-Year Headphones Protection Plan"
+    },
+    {
+     "level": 2,
+     "text": "Complete Protect: One plan covers eligible past & future Amazon Purchases"
+    },
+    {
+     "level": 5,
+     "text": "Used - Like New #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-whole { font-size: 28px !important; } #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-fraction, #buybox .a-accordion .a-accordion-active .a-price[data-a-size=l].reinventPriceAccordionT2 .a-price-symbol { top: -0.75em; font-size: 13px; } /* Hide Rufus ingress in collapsed accordion rows, show only when active */ #buybox .a-accordion .rufus-ingress-div-block, #buybox .a-accordion .rufus-ingress-badge{ display: none; } #buybox .a-accordion .a-accordion-active .rufus-ingress-div-block, #buybox .a-accordion .a-accordion-active .rufus-ingress-badge{ display: block; } $160.65$160.65 FREE delivery Friday, October 16 Ships from: Adorama Sold by: Adorama"
+    },
+    {
+     "level": 3,
+     "text": "Sorry, there was a problem."
+    },
+    {
+     "level": 3,
+     "text": "Sorry, there was a problem."
+    },
+    {
+     "level": 4,
+     "text": "Image Unavailable"
+    },
+    {
+     "level": 1,
+     "text": "Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White"
+    },
+    {
+     "level": 5,
+     "text": "Return this item for free"
+    },
+    {
+     "level": 3,
+     "text": "Purchase options and add-ons"
+    },
+    {
+     "level": 1,
+     "text": "About this item"
+    },
+    {
+     "level": 2,
+     "text": "Check Compatibility"
+    },
+    {
+     "level": 4,
+     "text": "There is a newer version of this item:"
+    },
+    {
+     "level": 2,
+     "text": "Top Brand: Apple"
+    },
+    {
+     "level": 2,
+     "text": "Compare Apple AirPods"
+    },
+    {
+     "level": 2,
+     "text": "Technical Details"
+    },
+    {
+     "level": 3,
+     "text": "AirPods Pro (2nd Gen)"
+    },
+    {
+     "level": 2,
+     "text": "Product information"
+    },
+    {
+     "level": 1,
+     "text": "Technical Details"
+    },
+    {
+     "level": 1,
+     "text": "Additional Information"
+    },
+    {
+     "level": 1,
+     "text": "Warranty & Support"
+    },
+    {
+     "level": 2,
+     "text": "What's in the box"
+    },
+    {
+     "level": 2,
+     "text": "Customer reviews"
+    },
+    {
+     "level": 3,
+     "text": "Customers say"
+    },
+    {
+     "level": 4,
+     "text": "Select to learn more"
+    },
+    {
+     "level": 6,
+     "text": "Images in this review"
+    },
+    {
+     "level": 3,
+     "text": "Reviews with images"
+    },
+    {
+     "level": 5,
+     "text": "Really really really good.***Update***"
+    },
+    {
+     "level": 3,
+     "text": "Top reviews from the United States"
+    },
+    {
+     "level": 5,
+     "text": "Really really really good.***Update***"
+    },
+    {
+     "level": 5,
+     "text": "Really really really good.***Update***"
+    },
+    {
+     "level": 5,
+     "text": "If you want a seamless Apple experience, then AirPods Pro are a must."
+    },
+    {
+     "level": 5,
+     "text": "Other than glaring white, they\u2019re kind of perfect."
+    },
+    {
+     "level": 5,
+     "text": "Absolutely amazing"
+    },
+    {
+     "level": 5,
+     "text": "Excellent"
+    },
+    {
+     "level": 5,
+     "text": "Absolutely worth it, to me."
+    },
+    {
+     "level": 5,
+     "text": "Exceptional Sound and Convenience - Worth Every Penny!"
+    },
+    {
+     "level": 5,
+     "text": "The sound has most improved overall!!"
+    },
+    {
+     "level": 5,
+     "text": "The sound has most improved overall!!"
+    },
+    {
+     "level": 3,
+     "text": "Top reviews from other countries"
+    },
+    {
+     "level": 5,
+     "text": "Original 100%"
+    },
+    {
+     "level": 5,
+     "text": "AirPods Pro 2: The Ultimate Wireless Earbuds Just Got Better"
+    },
+    {
+     "level": 5,
+     "text": "Apple AirPods Pro 2"
+    },
+    {
+     "level": 5,
+     "text": "Perfect"
+    },
+    {
+     "level": 5,
+     "text": "\u0645\u0646\u062a\u062c \u0631\u0642\u0645 \u0648\u0627\u062d\u062f"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Music"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Ads"
+    },
+    {
+     "level": 5,
+     "text": "6pm"
+    },
+    {
+     "level": 5,
+     "text": "AbeBooks"
+    },
+    {
+     "level": 5,
+     "text": "ACX"
+    },
+    {
+     "level": 5,
+     "text": "Sell on Amazon"
+    },
+    {
+     "level": 5,
+     "text": "Veeqo"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Business"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Fresh"
+    },
+    {
+     "level": 5,
+     "text": "AmazonGlobal"
+    },
+    {
+     "level": 5,
+     "text": "Home Services"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Web Services"
+    },
+    {
+     "level": 5,
+     "text": "Audible"
+    },
+    {
+     "level": 5,
+     "text": "Box Office Mojo"
+    },
+    {
+     "level": 5,
+     "text": "Goodreads"
+    },
+    {
+     "level": 5,
+     "text": "IMDb"
+    },
+    {
+     "level": 5,
+     "text": "IMDbPro"
+    },
+    {
+     "level": 5,
+     "text": "Kindle Direct Publishing"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Photos"
+    },
+    {
+     "level": 5,
+     "text": "Prime Video Direct"
+    },
+    {
+     "level": 5,
+     "text": "Shopbop"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Resale"
+    },
+    {
+     "level": 5,
+     "text": "Whole Foods Market"
+    },
+    {
+     "level": 5,
+     "text": "Woot!"
+    },
+    {
+     "level": 5,
+     "text": "Zappos"
+    },
+    {
+     "level": 5,
+     "text": "Ring"
+    },
+    {
+     "level": 5,
+     "text": "eero WiFi"
+    },
+    {
+     "level": 5,
+     "text": "Blink"
+    },
+    {
+     "level": 5,
+     "text": "Neighbors App"
+    },
+    {
+     "level": 5,
+     "text": "PillPack"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Renewed"
+    }
+   ],
+   "additionalMeta": {
+    "charset": "utf-8",
+    "x-dns-prefetch-control": "on",
+    "title": "Amazon.com: Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White : Electronics",
+    "encrypted-slate-token": "AnYxcx3ubFOspooBapo6c6Uf+VeJJfu2bQp7U3Jp3lynp8Tm1QlGRAR/ZqtBfQdVQBtMy+kCXOzjQoYvNwWEqC3691bRZCUILs1OQJiB8tLV85fJNwp4dYCA8UEtGjUNVdyiDU9kQb9AIXmrFLmRn/xwKlAUDWYb2b9WfTW+GaYCkCgNeEZEUnnz6FmhpW/qV066ODX+tpPK5J288+RqHsj+q6tmT2xfXCevDX3WWFnR9SP/6mnwrJw6v5X4RJns1KHOyXARWS9+b9PHsTvrmwvcLiEaQPw+1MlV/w54OYndNi8z3Zznsns8ZHn+5nlg86Fqv96igXeRJA==",
+    "bidi-endpoint": "ws.ep-e908141b0.bidi.amazon.dev",
+    "flow-closure-id": "1791752412"
+   }
+  },
+  "cache_metadata": {
+   "status": "hit",
+   "age_ms": 1062760
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 889
+  },
+  "request_id": "5e8c8845-7822-4200-85f8-4e7599d47915"
+ }
+}

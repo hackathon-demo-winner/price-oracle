@@ -1,0 +1,121 @@
+{
+ "status": "ok",
+ "url": "https://www.amazon.com/dp/B0CHWRXH8B",
+ "retailer": "amazon",
+ "product_id": "B0CHWRXH8B",
+ "product": {
+  "url": "https://www.amazon.com/dp/B0CHWRXH8B",
+  "retailer": "amazon",
+  "product_id": "B0CHWRXH8B",
+  "name": "Apple AirPods Pro (2nd Generation) Wireless Ear Buds with USB-C Charging, Up to 2X More Active Noise Cancelling Bluetooth Headphones, Transparency Mode, Adaptive, Personalized Spatial Audio, White",
+  "price": 263.86,
+  "regular_price": null,
+  "currency": "USD",
+  "availability": "in_stock",
+  "category": null,
+  "brand": "Apple",
+  "sku": "B0CHWRXH8B",
+  "in_stock": true,
+  "is_first_party_seller": null,
+  "marketplace": {},
+  "cache_status": "hit",
+  "model_category": "audio"
+ },
+ "forecast": {
+  "horizon_days": 30,
+  "current_price": 263.86,
+  "quantiles": {
+   "p5": 219.34,
+   "p25": 259.63,
+   "p50": 263.89,
+   "p75": 265.39,
+   "p95": 313.21
+  },
+  "projected_delta_percent": 0.01,
+  "action": "FAIR PRICE"
+ },
+ "model": {
+  "name": "product_30d",
+  "training_data": "SYNTHETIC (semi-synthetic: real BLS category trend + real sale calendar + invented product dynamics)",
+  "training_data_is_synthetic": true,
+  "trained_at": "2026-10-11T22:10:04Z",
+  "history_mode": "snapshot_only",
+  "history_source": "none",
+  "history_note": "no price history source has data for this product"
+ },
+ "category_trend": {
+  "category": "audio",
+  "bls_series": "CUUR0000SERA05",
+  "reference_month": "2026-08",
+  "next_month_index_change_percent": {
+   "p5": -2.306,
+   "p25": -1.322,
+   "p50": -0.451,
+   "p75": 0.423,
+   "p95": 1.467
+  },
+  "last_12m_change_percent": -1.97,
+  "training_data": "REAL: U.S. Bureau of Labor Statistics, CPI-U, U.S. city average, NSA (api.bls.gov v1)",
+  "note": "Category-level index, not this product's price."
+ },
+ "macro": {
+  "source": "Gemini Prediction Markets",
+  "status": "live",
+  "signals": {
+   "cpi_inflation_probability_next_30d": null,
+   "consumer_spending_expansion_odds": null,
+   "fed_hike_probability_next_meeting": 0.18500000000000003,
+   "fed_cut_probability_next_meeting": 0.025,
+   "recession_probability": 0.035,
+   "unemployment_above_5pct_probability": 0.11499999999999999,
+   "gdp_growth_above_2pct_probability": 0.8663663663663664
+  },
+  "unavailable": {
+   "cpi_inflation_probability_next_30d": "Gemini lists no CPI / inflation contract",
+   "consumer_spending_expansion_odds": "Gemini lists no consumer-spending or retail-sales contract"
+  },
+  "events_seen": {
+   "Economics": 10,
+   "Commodities": 18
+  },
+  "fetched_at": "2026-10-11T22:49:55Z",
+  "used_as_model_input": false,
+  "note": ""
+ },
+ "features": {
+  "price_ratio_to_30d_avg": null,
+  "price_ratio_to_90d_high": null,
+  "price_ratio_to_all_time_low": null,
+  "price_ratio_to_all_time_high": null,
+  "price_ratio_to_all_time_avg": null,
+  "rolling_7d_volatility": null,
+  "rolling_30d_volatility": null,
+  "days_since_last_price_change": null,
+  "frequency_of_discounts_per_quarter": null,
+  "history_days": null,
+  "price_ratio_to_regular": null,
+  "log_price": 5.575419,
+  "retailer_encoded": 0.0,
+  "product_category_encoded": 4.0,
+  "is_first_party_seller": null,
+  "event_days_to_major_sale": 2.0,
+  "in_sale_window_now": 1.0,
+  "target_in_sale_window": 0.0,
+  "month": 10.0,
+  "category_cpi_3m_change": -0.010087,
+  "category_cpi_12m_change": -0.019656,
+  "cpi_inflation_probability_next_30d": null,
+  "consumer_spending_expansion_odds": null
+ },
+ "warnings": [
+  "The model was trained on simulated price histories. Treat the forecast as experimental.",
+  "No price history is available for this product; the forecast uses only the current price, list price, retailer, category and calendar."
+ ],
+ "timings_ms": {
+  "scrape": 3.5,
+  "history": 0.0,
+  "gemini": 3.6,
+  "features_and_inference": 1.94,
+  "total": 6.1
+ }
+}

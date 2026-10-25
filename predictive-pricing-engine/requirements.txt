@@ -1,0 +1,4 @@
+# Deployed function (main.py). Versions are the ones tested locally on Python 3.12.
+firebase-functions==0.6.0
+onnxruntime==1.31.0
+numpy==2.5.4

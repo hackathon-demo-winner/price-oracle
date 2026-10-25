@@ -1,0 +1,16 @@
+# Research, training and tests. The deployed function needs only requirements.txt.
+-r requirements.txt
+
+lightgbm==4.7.0
+pandas>=2.2
+aiohttp>=3.9
+
+# tests / benchmarks
+pytest>=8
+pytest-asyncio>=0.23
+
+# ONNX export + parity check (`python -m ml_engine.model.export_onnx`)
+onnxmltools==1.16.0
+onnx
+scikit-learn
+skl2onnx

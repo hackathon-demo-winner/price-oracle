@@ -1,0 +1,11 @@
+{
+ "scenario": "contextdev_cached_single_slot",
+ "queries": 20,
+ "scraper": "SIMULATED",
+ "max_s": 13.589,
+ "p95_s": 12.907,
+ "p50_s": 7.123,
+ "ok": 20,
+ "timeout": 0,
+ "error": 0
+}

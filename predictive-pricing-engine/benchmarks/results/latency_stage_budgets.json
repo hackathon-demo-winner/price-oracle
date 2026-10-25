@@ -1,0 +1,10 @@
+{
+ "gemini_cached_ms": 0.0002,
+ "timings_ms": {
+  "gemini": 0.0,
+  "scrape": 0.8,
+  "history": 0.0,
+  "features_and_inference": 0.78,
+  "total": 1.7
+ }
+}

@@ -1,0 +1,654 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.bestbuy.com/site/6447382.p?skuId=6447382",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 0.43,
+  "recorded_at": "2026-10-11T21:53:45Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.bestbuy.com/product/apple-airpods-pro-2-wireless-active-noise-cancelling-earbuds-with-hearing-aid-feature-white/JJGCQ88C8X",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "Apple - AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature - White",
+     "description": "AirPods Pro 2 - featuring pro-level Active Noise Cancellation, Adaptive Audio, Transparency mode, Personalized Spatial Audio, and a breakthrough in hearing health with a scientifically validated Hearing Test, clinical-grade Hearing Aid capability, and active Hearing Protection.",
+     "brand": "Apple",
+     "sku": "12734208",
+     "price": 249.69,
+     "regularPrice": null,
+     "currency": "USD",
+     "availability": "in_stock",
+     "category": null,
+     "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg",
+     "images": [
+      "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg"
+     ],
+     "dimensions": [],
+     "features": [
+      "Noise Cancelling (Active): true",
+      "Sound Mode: Stereo",
+      "Connection Type: Wireless",
+      "Wireless Connectivity: Bluetooth",
+      "True Wireless: true",
+      "Water Resistant: true",
+      "Built-In Microphone: true",
+      "Carrying Case: true",
+      "Headphone Fit: In-Ear",
+      "Battery Life: 6 hours",
+      "Ear Tip Sizes Included: Extra small, Large, Medium, Small",
+      "Brand: Apple",
+      "Model Number: MTJV3LL/A/MTJV3AM/A",
+      "Product Name: AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature",
+      "Color: White",
+      "Ear Cushions: false",
+      "Ear Tip Sizes Included: Extra small, Large, Medium, Small",
+      "Series: AirPods Pro 2",
+      "Noise Cancelling (Active): true",
+      "Sound Isolating: true",
+      "Environmental Noise Control: true",
+      "Sound Mode: Stereo",
+      "Connection Type: Wireless",
+      "Wireless Connectivity: Bluetooth",
+      "True Wireless: true",
+      "Bluetooth Version: 5.3",
+      "Water Resistant: true",
+      "Built-In Microphone: true",
+      "Carrying Case: true",
+      "Controls: Call, Mute, Track selection, Voice assistant, Volume",
+      "Bone Conducting Technology: false",
+      "Number of Programmable Buttons: 2",
+      "Maximum Talk Time: 24 hours",
+      "Stand-By Time: 24 days",
+      "Headphone Fit: In-Ear",
+      "Style: General use",
+      "Rechargeable: true",
+      "Battery Life: 6 hours",
+      "Charging Accessory Included: Cable",
+      "Battery Life Provided by Charging Case: 24 hours",
+      "Fast Charging: 5 minutes = 1 hours of playtime",
+      "Charging Interface(s): USB-C",
+      "Product Height: 1.22 inches",
+      "Product Width: 0.86 inches",
+      "Product Length: 3.94 inches",
+      "Product Weight: 0.19 pounds",
+      "Warranty - Parts: 1 year Limited",
+      "Warranty - Labor: 1 year Limited",
+      "UPC: 195949704529"
+     ],
+     "targetAudience": [],
+     "tags": [],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "Apple AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature White - Best Buy",
+   "description": "Shop Apple AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature White products at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up. Price Match Guarantee.",
+   "language": "en",
+   "canonicalUrl": "https://www.bestbuy.com/product/apple-airpods-pro-2-wireless-active-noise-cancelling-earbuds-with-hearing-aid-feature-white/JJGCQ88C8X",
+   "siteName": "BestBuy.com",
+   "favicon": "https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/favicon-32-72227.png",
+   "headings": [
+    {
+     "level": 1,
+     "text": "Apple - AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature - White"
+    },
+    {
+     "level": 2,
+     "text": "Customers are saying"
+    },
+    {
+     "level": 2,
+     "text": "Key Accessories:"
+    },
+    {
+     "level": 3,
+     "text": "Features"
+    },
+    {
+     "level": 3,
+     "text": "Specifications"
+    },
+    {
+     "level": 2,
+     "text": "Reviews"
+    },
+    {
+     "level": 2,
+     "text": "Featured products"
+    },
+    {
+     "level": 2,
+     "text": "Questions & Answers"
+    }
+   ],
+   "additionalMeta": {
+    "origin-trial": "A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==",
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+    "analytics-metadata": "{\"product\":{\"skuId\":\"12734208\",\"bsin\":\"JJGCQ88C8X\",\"price\":\"274.99\",\"brand\":\"Apple\",\"dept\":\"1\",\"class\":\"746\",\"subclass\":\"8421\"},\"page\":{\"type\":\"browse,PDP\",\"name\":\"Product Detail Page\",\"breadcrumbs\":[\"Best Buy\",\"Headphones\",\"Earbud & In-Ear Headphones\"],\"uberCat\":\"Headphones\",\"parentCat\":\"Headphones\",\"cat\":\"Earbud & In-Ear Headphones\"}}",
+    "theme-color": "#0046be",
+    "msapplication-tooltip": "BestBuy - Let's talk about what's possible.",
+    "msapplication-config": "/~assets/bby/_com/shop/global-metadata/dist/client/IEconfig.xml"
+   },
+   "jsonLd": [
+    {
+     "@context": "http://schema.org",
+     "@type": "BreadcrumbList",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": 1,
+       "item": {
+        "@id": "https://www.bestbuy.com/",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 2,
+       "item": {
+        "@id": "https://www.bestbuy.com/site/electronics/headphones/abcat0204000.c?id=abcat0204000",
+        "name": "Headphones"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": 3,
+       "item": {
+        "@id": "https://www.bestbuy.com/site/headphones/earbud-in-ear-headphones/pcmcat143000050007.c?id=pcmcat143000050007",
+        "name": "Earbud & In-Ear Headphones"
+       }
+      }
+     ]
+    },
+    {
+     "@context": "https://schema.org/",
+     "@type": "Product",
+     "name": "Apple - AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature - White",
+     "image": [
+      {
+       "@type": "ImageObject",
+       "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg",
+       "thumbnailUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg"
+      }
+     ],
+     "url": "https://www.bestbuy.com/product/apple-airpods-pro-2-wireless-active-noise-cancelling-earbuds-with-hearing-aid-feature-white/JJGCQ88C8X",
+     "description": "AirPods Pro 2 - featuring pro-level Active Noise Cancellation, Adaptive Audio, Transparency mode, Personalized Spatial Audio, and a breakthrough in hearing health with a scientifically validated Hearing Test, clinical-grade Hearing Aid capability, and active Hearing Protection.",
+     "sku": "12734208",
+     "model": "MTJV3LL/A/MTJV3AM/A",
+     "color": "White",
+     "brand": {
+      "@type": "Brand",
+      "name": "Apple"
+     },
+     "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.8,
+      "reviewCount": 32443,
+      "url": "https://www.bestbuy.com/product/name/JJGCQ88C8X/sku/12734208/reviews"
+     },
+     "offers": [
+      {
+       "@type": "Offer",
+       "priceCurrency": "USD",
+       "price": 249.69,
+       "availability": "https://schema.org/InStock",
+       "itemCondition": "https://schema.org/NewCondition",
+       "description": "New",
+       "sku": "12734208",
+       "seller": {
+        "@type": "Organization",
+        "name": "Best Buy",
+        "availableDeliveryMethod": [
+         "SHIPPING"
+        ]
+       },
+       "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "url": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+        "additionalProperty": [
+         {
+          "@type": "PropertyValue",
+          "name": "Return Policy Link",
+          "value": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014"
+         }
+        ]
+       }
+      }
+     ],
+     "review": [
+      {
+       "@type": "Review",
+       "name": "Amazing",
+       "author": {
+        "@type": "Person",
+        "name": "ISABELLAM"
+       },
+       "reviewBody": "I\u2019ve been using the AirPods Pro for a while now, and honestly they\u2019ve been one of the best purchases I\u2019ve made. The sound quality is really clear, and the noise cancellation works great, especially when I\u2019m in a busy place or trying to focus. They\u2019re comfortable to wear for long periods and fit securely in my ears without constantly falling out.\n\nI also like how easy they are to connect to my phone and switch between devices. The battery life lasts me most of the day, and the charging case is small enough to carry anywhere. The transparency mode is another feature I use a lot because it lets me hear what\u2019s going on around me without taking the earbuds out.\n\nOverall, I would definitely recommend the AirPods Pro to anyone looking for wireless earbuds with great sound, comfort, and useful features. They\u2019re a little expensive, but in my opinion they\u2019re worth it.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Simply the Best Wireless Earbuds",
+       "author": {
+        "@type": "Person",
+        "name": "OptimusPrime"
+       },
+       "reviewBody": "The Apple AirPods Pro 2 are a game-changer, delivering a premium listening experience that exceeds expectations. From sound quality to comfort and functionality, these earbuds are a perfect blend of innovation and convenience.\n\nSound Quality & Noise Cancellation:\nThe audio is crystal-clear, with rich bass, balanced mids, and crisp highs. Apple\u2019s Adaptive EQ fine-tunes the sound based on your ears, making every song sound incredible. The upgraded Active Noise Cancellation (ANC) is remarkably effective, blocking out even the most distracting environments, while the Transparency Mode feels natural and effortless.\n\nComfort & Fit:\nWith four sizes of ear tips, finding the perfect fit is easy. They stay secure during workouts and remain comfortable for hours of wear. The lightweight design makes them almost unnoticeable during long listening sessions.\n\nBattery Life & Charging:\nBattery life is excellent, lasting about six hours with ANC on. The case extends this to over 30 hours and supports both MagSafe and wireless charging. The built-in speaker on the case is a handy feature for locating it using the \u201cFind My\u201d app.\n\nFeatures & Usability:\nApple\u2019s H2 chip powers seamless connectivity and instant pairing, making switching between devices effortless. The new touch controls on the stems for adjusting volume are intuitive and a great addition. Spatial Audio with dynamic head tracking creates an immersive 360-degree sound experience that\u2019s simply mind-blowing.\n\nWhy They\u2019re Worth It:\nEverything about the AirPods Pro 2 feels refined and purposeful. Whether you\u2019re using them for music, calls, or workouts, they deliver in every scenario. While they\u2019re on the pricier side, the combination of sound quality, comfort, and advanced features makes them worth every penny.\n\nFor Apple users or anyone seeking top-of-the-line wireless earbuds, these are unbeatable.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "AirPods Pro (2nd Generation) \u2013 Worth the Hype?",
+       "author": {
+        "@type": "Person",
+        "name": "toomuuch23"
+       },
+       "reviewBody": "I\u2019ve been using the AirPods Pro (2nd Generation) for a while now, and I must say, they\u2019re a huge step up from the original model. Here\u2019s my take:\n\nDesign and Fit\n\nApple kept the same sleek look, but the new extra-small ear tip option makes a big difference. They feel super comfortable, and I can wear them for hours without any issues. They also stay put even during workouts, which is a bonus.\n\nSound Quality\n\nThe sound is phenomenal. The new H2 chip makes everything clearer, from the thumping bass to the crisp vocals. I also love the Spatial Audio feature \u2013 it\u2019s like I\u2019m surrounded by sound, especially when watching movies.\n\nNoise Cancellation and Transparency Mode\n\nThe noise cancellation is no joke. It blocks out so much more background noise compared to the first-gen AirPods Pro. On the flip side, Transparency Mode feels really natural \u2013 I can hear people and my surroundings clearly without taking the earbuds out.\n\nBattery Life\n\nBattery life is another big win. I\u2019m getting about 6 hours of listening time on a single charge with noise cancellation on, and the case adds another 24 hours. Plus, the new charging case with a built-in speaker makes it easier to find when I misplace it (which happens a lot).\n\nFeatures and Controls\n\nThe touch controls are super handy. Swiping to adjust the volume is a small but game-changing feature. And since I use multiple Apple devices, the seamless switching between my iPhone, iPad, and MacBook makes life easier.\n\nThe Downsides\n\nThe price is steep \u2013 no denying that. Also, if you\u2019re not using an Apple device, you might not get the most out of them.\n\nFinal Thoughts\n\nIf you\u2019re in the Apple ecosystem and want top-notch earbuds, these are worth every penny. The sound quality, noise cancellation, and all the extra features make them a joy to use.\n\nWould I recommend them? Absolutely \u2013 as long as you\u2019re okay with the price tag.\n\nWhat do you think? Have you tried them yet? Let me know your thoughts!",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Just Do It",
+       "author": {
+        "@type": "Person",
+        "name": "LucyM"
+       },
+       "reviewBody": "Apple AirPods Pro 2 Review: The Ultimate Wireless Earbuds Experience\nAs a long-time fan of wireless earbuds, I can confidently say that the AirPods Pro 2 have redefined what premium in-ear audio should be. Building upon the success of the original AirPods Pro, Apple has crafted a pair of earbuds that not only meet, but exceed expectations in nearly every category. Whether you\u2019re a music lover, podcast enthusiast, or someone who values a seamless tech experience, these earbuds are truly in a league of their own.\nDesign: Comfort Meets Refinement\nThe AirPods Pro 2 retain the same iconic design as their predecessor\u2014sleek, minimal, and instantly recognizable\u2014but Apple has made some subtle tweaks that improve the overall fit and feel. The addition of four sizes of silicone ear tipsensures a more secure and personalized fit, which makes a huge difference in comfort, especially for extended listening sessions. The earbuds stay snug and stable during workouts or walks, and their lightweight build makes them barely noticeable in your ears.\nThe charging case has also been upgraded, with a built-in speaker that chimes when you use the Find My feature, as well as a lanyard loop for added convenience. It\u2019s now also MagSafe compatible, making it even easier to keep charged without fumbling with cables.\nSound Quality: A Whole New Level of Clarity\nThe sound quality of the AirPods Pro 2 is a noticeable leap forward, thanks to the new H2 chip. Every song I listened to felt like a richer, more immersive experience. The bass is deeper, the mids are clearer, and the highs sparkle without feeling sharp. Whether I was listening to classical music, electronic beats, or podcasts, the sound was consistently crisp, balanced, and dynamic.\nSpatial Audio brings a whole new dimension to the experience, creating an immersive, 3D soundstage that truly makes you feel like you\u2019re in the middle of the action\u2014perfect for both movies and music. Adaptive Transparency also plays a key role, adjusting external sounds naturally, so you can stay aware of your surroundings without sacrificing the clarity of your music.\nActive Noise Cancellation & Transparency Mode: Unmatched Versatility\nThe Active Noise Cancellation (ANC) has been significantly improved in the AirPods Pro 2. Even in crowded environments, such as bustling coffee shops or subway rides, the earbuds effectively block out background noise, allowing me to fully immerse in whatever I\u2019m listening to. At the same time, the Transparency Mode feels more natural than ever, with external sounds coming through clearly, but not overwhelming the audio experience. Whether I\u2019m crossing a street or listening for an announcement at the airport, it\u2019s easy to switch between total isolation and situational awareness.\nBattery Life: Longer Playtime, Less Charging\nApple has really nailed the battery life with the AirPods Pro 2. I was impressed to get up to 6 hours of continuous listening with ANC turned on, which is a marked improvement over the original AirPods Pro. And with the included charging case, I was able to enjoy up to 30 hours of total listening time\u2014perfect for long flights or extended workdays.\nThe quick-charge feature is another nice touch, giving you about 1 hour of playback from just a 5-minute charge\u2014a lifesaver when you're in a rush.\nConnectivity: Effortless Pairing with Apple Devices\nAs expected, the AirPods Pro 2 deliver a seamless connection with Apple devices. Pairing is instantaneous, and switching between my iPhone, iPad, and MacBook was effortless. Whether I\u2019m jumping into a video call, streaming music, or answering a phone call, the earbuds deliver crystal-clear audio with no lag or interruptions.\nPros and Cons: The Bottom Line\nPros:\n\t\u2022\tExceptional sound quality with deep bass and clear highs\n\t\u2022\tIndustry-leading noise cancellation and natural transparency mode\n\t\u2022\tComfortable and customizable fit with multiple ear tip sizes\n\t\u2022\tLong battery life (6 hours with ANC on, up to 30 hours with the case)\n\t\u2022\tEnhanced Find My feature with a built-in speaker in the case\n\t\u2022\tImproved fit with a lighter, more portable design\nCons:\n\t\u2022\tPremium price point (but justified by the quality)\n\t\u2022\tLimited customizability of sound (compared to some competitors)\nFinal Thoughts: A Must-Have for Audio Lovers\nThe AirPods Pro 2 are, without a doubt, the best wireless earbuds I\u2019ve ever used. From the unparalleled sound quality to the excellent noise cancellation and thoughtful design upgrades, Apple has truly raised the bar for what premium earbuds should deliver. While they come at a higher price point, the AirPods Pro 2 offer an unmatched experience for those who value sound, comfort, and convenience.\nWhether you\u2019re upgrading from the original AirPods Pro or entering the world of premium wireless earbuds for the first time, the AirPods Pro 2 are worth every penny. They\u2019re not just earbuds\u2014they\u2019re a ticket to an entirely new level of audio enjoyment.\nFinal Verdict: If you\u2019re serious about sound and want a pair of earbuds that do it all, the AirPods Pro 2 are an easy choice. Highly recommended! \nJUST DO IT!",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      },
+      {
+       "@type": "Review",
+       "name": "Exceptional!",
+       "author": {
+        "@type": "Person",
+        "name": "RagedPuppet"
+       },
+       "reviewBody": "The Apple AirPods Pro redefine the wireless earbud experience with their impressive sound quality, active noise cancellation, and comfortable design.\n\nLet\u2019s start with the sound. The AirPods Pro deliver rich, detailed audio with a balanced sound profile. The adaptive EQ automatically tunes the music to the shape of your ear, ensuring immersive sound quality across various genres.\n\nActive Noise Cancellation (ANC) is a standout feature of the AirPods Pro. It effectively blocks out external noise, whether you\u2019re commuting, working in a busy environment, or simply wanting to focus on your music or podcasts. Transparency mode allows you to hear the world around you when needed, making these earbuds versatile for different situations.\n\nComfort is excellent, thanks to the customizable silicone ear tips that provide a secure and comfortable fit. The lightweight design ensures long-term wearability without causing discomfort.\n\nThe AirPods Pro also excel in terms of convenience and functionality. They seamlessly integrate with Apple devices, offering quick pairing, automatic device switching, and hands-free access to Siri. Touch controls on the stem of the earbuds allow for easy playback control and toggling between ANC and Transparency modes.\n\nBattery life is decent, with up to 4.5 hours of listening time on a single charge (with ANC enabled) and over 24 hours of total listening time when using the charging case.\n\nWhile the AirPods Pro come at a premium price, the overall experience justifies the investment for those seeking top-tier wireless earbuds with advanced features and seamless integration into the Apple ecosystem.\n\nIn summary, the Apple AirPods Pro are an excellent choice for anyone looking for wireless earbuds with exceptional sound quality, effective noise cancellation, and a comfortable fit. They represent the pinnacle of wireless earbud technology and are well worth considering for Apple users.",
+       "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": "5"
+       },
+       "publisher": {
+        "@type": "Organization",
+        "name": "Best Buy"
+       }
+      }
+     ],
+     "additionalProperty": [
+      {
+       "@type": "PropertyValue",
+       "name": "Noise Cancelling (Active)",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Sound Mode",
+       "value": "Stereo"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Connection Type",
+       "value": "Wireless"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Wireless Connectivity",
+       "value": "Bluetooth"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "True Wireless",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Water Resistant",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Built-In Microphone",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Carrying Case",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Headphone Fit",
+       "value": "In-Ear"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Battery Life",
+       "value": "6 hours"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Ear Tip Sizes Included",
+       "value": "Extra small, Large, Medium, Small"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Brand",
+       "value": "Apple"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Model Number",
+       "value": "MTJV3LL/A/MTJV3AM/A"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Name",
+       "value": "AirPods Pro 2, Wireless Active Noise Cancelling Earbuds with Hearing Aid Feature"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Color",
+       "value": "White"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Ear Cushions",
+       "value": "false"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Ear Tip Sizes Included",
+       "value": "Extra small, Large, Medium, Small"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Series",
+       "value": "AirPods Pro 2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Noise Cancelling (Active)",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Sound Isolating",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Environmental Noise Control",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Sound Mode",
+       "value": "Stereo"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Connection Type",
+       "value": "Wireless"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Wireless Connectivity",
+       "value": "Bluetooth"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "True Wireless",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bluetooth Version",
+       "value": "5.3"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Water Resistant",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Built-In Microphone",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Carrying Case",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Controls",
+       "value": "Call, Mute, Track selection, Voice assistant, Volume"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Bone Conducting Technology",
+       "value": "false"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Number of Programmable Buttons",
+       "value": "2"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Maximum Talk Time",
+       "value": "24 hours"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Stand-By Time",
+       "value": "24 days"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Headphone Fit",
+       "value": "In-Ear"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Style",
+       "value": "General use"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Rechargeable",
+       "value": "true"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Battery Life",
+       "value": "6 hours"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Charging Accessory Included",
+       "value": "Cable"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Battery Life Provided by Charging Case",
+       "value": "24 hours"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Fast Charging",
+       "value": "5 minutes = 1 hours of playtime"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Charging Interface(s)",
+       "value": "USB-C"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Height",
+       "value": "1.22 inches"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Width",
+       "value": "0.86 inches"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Length",
+       "value": "3.94 inches"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Product Weight",
+       "value": "0.19 pounds"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Warranty - Parts",
+       "value": "1 year Limited"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "Warranty - Labor",
+       "value": "1 year Limited"
+      },
+      {
+       "@type": "PropertyValue",
+       "name": "UPC",
+       "value": "195949704529"
+      }
+     ],
+     "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "url": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014",
+      "additionalProperty": [
+       {
+        "@type": "PropertyValue",
+        "name": "Return Policy Link",
+        "value": "https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014"
+       }
+      ]
+     }
+    },
+    {
+     "@context": "https://schema.org/",
+     "@type": "ItemList",
+     "itemListElement": [
+      {
+       "@type": "VideoObject",
+       "position": 1,
+       "name": "AppleCare+ for AirPods (Sold Separately)",
+       "description": "AppleCare+ for AirPods (Sold Separately)",
+       "duration": "PT0M44S",
+       "thumbnailUrl": "https://pisces.bbystatic.com/prescaled/180/320/image2/BestBuy_US/images/videos/1944698453.jpg",
+       "contentUrl": "https://res.cloudinary.com/bby-product/video/upload/c_limit,h_960,w_960/q_auto:eco/v1762398017/1944698453.mp4",
+       "uploadDate": "2024-10-07T23:47:50+0000",
+       "fileFormat": "video/1944698453",
+       "caption": "https://res.cloudinary.com/bby-product/raw/upload/v1728342109/1944698453_en_us.vtt"
+      }
+     ]
+    }
+   ]
+  },
+  "cache_metadata": {
+   "status": "hit",
+   "age_ms": 3097116
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 883
+  },
+  "request_id": "5bda95f7-28ab-483b-ab38-ae2868b206c1"
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "lib": ["es2020", "dom"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "sourceMap": true,
+    "rootDir": "..",
+    "outDir": "lib"
+  },
+  "include": ["src", "../lib/context-dev.ts", "../lib/projection-engine.ts", "../lib/retailers.ts", "../lib/alert-rules.ts"]
+}

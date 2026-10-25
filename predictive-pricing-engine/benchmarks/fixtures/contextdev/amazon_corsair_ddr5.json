@@ -1,0 +1,401 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.amazon.com/dp/B0C3RYHZJQ",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 0.74,
+  "recorded_at": "2026-10-11T21:53:42Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.amazon.com/dp/B0C3RYHZJQ?th=1",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": true,
+    "product": {
+     "name": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30)",
+     "description": "CORSAIR VENGEANCE DDR5, optimized for Intel\u00ae motherboards, delivers the higher frequencies and greater capacities of DDR5 technology in a high-quality, compact module that suits your system. Tightly-screened high-frequency memory chips power your PC through faster processing, rendering, and buffering than ever, with onboard voltage regulation for easy, finely controlled overclocking. CORSAIR iCUE software enables real-time frequency monitoring, onboard voltage regulation, and Intel XMP 3.0 profile customization. A distinctive solid aluminum heatspreader keeps your memory cool, while ensuring wide compatibility with a huge range of motherboards and CPU coolers. With a limited lifetime warranty as your guarantee of reliability for years to come, VENGEANCE DDR5 continues a long-standing legacy of memory performance.",
+     "brand": "Corsair",
+     "sku": "B0C3RYHZJQ",
+     "price": 529.99,
+     "regularPrice": null,
+     "currency": "USD",
+     "availability": null,
+     "category": "Memory",
+     "imageUrl": "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SL1500_.jpg",
+     "images": [
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX355_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX450_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX425_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_SX569_.jpg"
+     ],
+     "dimensions": [],
+     "features": [
+      "Do it All, and Do it Faster: As modern CPUs feature more and more cores, the unprecedented speed of DDR5 ensures your high-end CPU gets data quickly, enabling faster processing, rendering, and buffering than ever before.",
+      "Onboard Voltage Regulation: Makes for easier, more finely-tuned, and more stable overclocking through CORSAIR iCUE software than previous generation motherboard control.",
+      "Custom Intel XMP 3.0 Profiles: Customize and save your own XMP profiles via iCUE to tailor performance by app or task for greater efficiency.",
+      "Powerful CORSAIR iCUE Software: Enables real-time frequency readings, onboard voltage regulation, and custom XMP profiles.",
+      "Compact Form-Factor: Low clearance ensures wide compatibility with nearly any DDR5 build."
+     ],
+     "targetAudience": [],
+     "tags": [],
+     "variants": []
+    }
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30) at Amazon.com",
+   "description": "Buy CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30): Memory - Amazon.com \u2713 FREE DELIVERY possible on eligible purchases",
+   "language": "en-us",
+   "canonicalUrl": "https://www.amazon.com/clp/B0C3RYHZJQ",
+   "headings": [
+    {
+     "level": 2,
+     "text": "Skip to"
+    },
+    {
+     "level": 2,
+     "text": "Keyboard shortcuts"
+    },
+    {
+     "level": 3,
+     "text": "Add to your order"
+    },
+    {
+     "level": 3,
+     "text": "Add to your order"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 3,
+     "text": "Product Protection by Asurion, LLC"
+    },
+    {
+     "level": 2,
+     "text": "4-Year Office Equipment Protection Plan"
+    },
+    {
+     "level": 2,
+     "text": "Complete Protect: One plan covers eligible past & future Amazon Purchases"
+    },
+    {
+     "level": 3,
+     "text": "Sorry, there was a problem."
+    },
+    {
+     "level": 3,
+     "text": "Sorry, there was a problem."
+    },
+    {
+     "level": 4,
+     "text": "Image Unavailable"
+    },
+    {
+     "level": 1,
+     "text": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30)"
+    },
+    {
+     "level": 5,
+     "text": "Return this item for free"
+    },
+    {
+     "level": 3,
+     "text": "Purchase options and add-ons"
+    },
+    {
+     "level": 1,
+     "text": "About this item"
+    },
+    {
+     "level": 2,
+     "text": "Frequently bought together"
+    },
+    {
+     "level": 2,
+     "text": "4 stars and above"
+    },
+    {
+     "level": 2,
+     "text": "Products related to this item"
+    },
+    {
+     "level": 1,
+     "text": "Product information"
+    },
+    {
+     "level": 3,
+     "text": "Warranty & Support"
+    },
+    {
+     "level": 3,
+     "text": "Feedback"
+    },
+    {
+     "level": 2,
+     "text": "Where did you see a lower price?"
+    },
+    {
+     "level": 2,
+     "text": "Product Videos"
+    },
+    {
+     "level": 2,
+     "text": "Product Description"
+    },
+    {
+     "level": 2,
+     "text": "From the manufacturer"
+    },
+    {
+     "level": 1,
+     "text": "aplus content video"
+    },
+    {
+     "level": 2,
+     "text": "From the brand"
+    },
+    {
+     "level": 3,
+     "text": "Gaming Peripherals"
+    },
+    {
+     "level": 3,
+     "text": "DIY Components"
+    },
+    {
+     "level": 3,
+     "text": "SSD & Memory"
+    },
+    {
+     "level": 2,
+     "text": "What's in the box"
+    },
+    {
+     "level": 2,
+     "text": "Top Brand: Corsair"
+    },
+    {
+     "level": 2,
+     "text": "Related products with free delivery on eligible orders"
+    },
+    {
+     "level": 2,
+     "text": "Similar brands on Amazon"
+    },
+    {
+     "level": 2,
+     "text": "Customer reviews"
+    },
+    {
+     "level": 3,
+     "text": "Customers say"
+    },
+    {
+     "level": 4,
+     "text": "Select to learn more"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Music"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Ads"
+    },
+    {
+     "level": 5,
+     "text": "6pm"
+    },
+    {
+     "level": 5,
+     "text": "AbeBooks"
+    },
+    {
+     "level": 5,
+     "text": "ACX"
+    },
+    {
+     "level": 5,
+     "text": "Sell on Amazon"
+    },
+    {
+     "level": 5,
+     "text": "Veeqo"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Business"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Fresh"
+    },
+    {
+     "level": 5,
+     "text": "AmazonGlobal"
+    },
+    {
+     "level": 5,
+     "text": "Home Services"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Web Services"
+    },
+    {
+     "level": 5,
+     "text": "Audible"
+    },
+    {
+     "level": 5,
+     "text": "Box Office Mojo"
+    },
+    {
+     "level": 5,
+     "text": "Goodreads"
+    },
+    {
+     "level": 5,
+     "text": "IMDb"
+    },
+    {
+     "level": 5,
+     "text": "IMDbPro"
+    },
+    {
+     "level": 5,
+     "text": "Kindle Direct Publishing"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Photos"
+    },
+    {
+     "level": 5,
+     "text": "Prime Video Direct"
+    },
+    {
+     "level": 5,
+     "text": "Shopbop"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Resale"
+    },
+    {
+     "level": 5,
+     "text": "Whole Foods Market"
+    },
+    {
+     "level": 5,
+     "text": "Woot!"
+    },
+    {
+     "level": 5,
+     "text": "Zappos"
+    },
+    {
+     "level": 5,
+     "text": "Ring"
+    },
+    {
+     "level": 5,
+     "text": "eero WiFi"
+    },
+    {
+     "level": 5,
+     "text": "Blink"
+    },
+    {
+     "level": 5,
+     "text": "Neighbors App"
+    },
+    {
+     "level": 5,
+     "text": "PillPack"
+    },
+    {
+     "level": 5,
+     "text": "Amazon Renewed"
+    }
+   ],
+   "additionalMeta": {
+    "charset": "utf-8",
+    "x-dns-prefetch-control": "on",
+    "title": "CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) 6000MHz CL30-36-36-76 1.40V Intel XMP Desktop Computer Memory - Black (CMK32GX5M2B6000C30) at Amazon.com",
+    "encrypted-slate-token": "AnYxU49pUeuBqsxiJbjK7wNzf5LyFrZRRcwhsBJlAGMb5SsXyiHqE2456d1WaZWfpGxXSY798Z3haRla8IRvrTbeycrCRifFZh5cW2s6Mopgs/v8694Fk0HsfflEicv4ydU8d7YQpW1oepxsdRFK7XnIhKkvOdoDkSwbnnQ+YvNbe1kYdHHV0X4IBV91g2ISUap7m1VX14DfVOh+P62GteSMNeaPr8bw9O8G6sieQvQdC9ToJXnD2Gvt0R45JxSbd1AfnS3S7Z/eSKvza8M66fNxrX2Qj8FW2QvmZbi1gpPUX7FXfkV4mc0LKFarKwk3OeCmUW21IDu3",
+    "bidi-endpoint": "ws.ep-e908141b0.bidi.amazon.dev",
+    "flow-closure-id": "1791752412"
+   }
+  },
+  "cache_metadata": {
+   "status": "hit",
+   "age_ms": 480555
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 887
+  },
+  "request_id": "0bca1a24-0ca5-49f9-aac2-7bb29cb07519"
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "training_data": "REAL: U.S. Bureau of Labor Statistics, CPI-U, U.S. city average, NSA (api.bls.gov v1)",
+ "training_data_is_synthetic": false,
+ "dataset_rows": 6361,
+ "walk_forward_backtest": [
+  {
+   "test_period": [
+    "2010-01-01",
+    "2015-01-01"
+   ],
+   "train_rows": 2599,
+   "model": {
+    "n": 1140,
+    "pinball_loss": {
+     "p5": 0.0009128834088643928,
+     "p25": 0.00256934846216464,
+     "p50": 0.0031705910333530165,
+     "p75": 0.0025618139199916,
+     "p95": 0.0009176262060104039
+    },
+    "pinball_loss_mean": 0.002026452606076811,
+    "coverage_p5_p95": 0.9078947368421053,
+    "coverage_p25_p75": 0.5482456140350878,
+    "mean_width_p5_p95_pct": 2.8960678605788748,
+    "mae_pct_of_current": 0.6321315322129771,
+    "rmse_pct_of_current": 0.8440663925119968,
+    "no_change_mae_pct_of_current": 0.7813228590203007,
+    "no_change_rmse_pct_of_current": 1.058613257030331
+   },
+   "model_before_conformal": {
+    "n": 1140,
+    "pinball_loss": {
+     "p5": 0.0009210456035523588,
+     "p25": 0.002575447495880592,
+     "p50": 0.0031705910333530165,
+     "p75": 0.0025837458170433537,
+     "p95": 0.0009693353295458709
+    },
+    "pinball_loss_mean": 0.0020440330558750388,
+    "coverage_p5_p95": 0.843859649122807,
+    "coverage_p25_p75": 0.40350877192982454,
+    "mean_width_p5_p95_pct": 2.338466500361139,
+    "mae_pct_of_current": 0.6321315322129771,
+    "rmse_pct_of_current": 0.8440663925119968,
+    "no_change_mae_pct_of_current": 0.7813228590203007,
+    "no_change_rmse_pct_of_current": 1.058613257030331
+   },
+   "naive_unconditional_quantiles": {
+    "pinball_loss": {
+     "p5": 0.001198224288123419,
+     "p25": 0.0032317066044961827,
+     "p50": 0.0037942522655098243,
+     "p75": 0.003039114369639943,
+     "p95": 0.0011642040844755254
+    },
+    "pinball_loss_mean": 0.002485500322448979
+   },
+   "conformal_offsets": {
+    "interval_90": 0.002797015104913654,
+    "interval_50": 0.001579035588448072
+   }
+  },
+  {
+   "test_period": [
+    "2015-01-01",
+    "2020-01-01"
+   ],
+   "train_rows": 3739,
+   "model": {
+    "n": 1140,
+    "pinball_loss": {
+     "p5": 0.0013350340803578843,
+     "p25": 0.003314831506414765,
+     "p50": 0.004088847106064494,
+     "p75": 0.0033494085352108135,
+     "p95": 0.001291879938767985
+    },
+    "pinball_loss_mean": 0.002676000233363188,
+    "coverage_p5_p95": 0.8710526315789474,
+    "coverage_p25_p75": 0.4789473684210526,
+    "mean_width_p5_p95_pct": 3.1331983900846674,
+    "mae_pct_of_current": 0.8148131614350577,
+    "rmse_pct_of_current": 1.1473988932029222,
+    "no_change_mae_pct_of_current": 0.9460397409888445,
+    "no_change_rmse_pct_of_current": 1.3173002916586902
+   },
+   "model_before_conformal": {
+    "n": 1140,
+    "pinball_loss": {
+     "p5": 0.0014054143779672346,
+     "p25": 0.003352687536237729,
+     "p50": 0.004088847106064494,
+     "p75": 0.003388541146292847,
+     "p95": 0.0013963292942122487
+    },
+    "pinball_loss_mean": 0.0027263638921549106,
+    "coverage_p5_p95": 0.8,
+    "coverage_p25_p75": 0.3850877192982456,
+    "mean_width_p5_p95_pct": 2.545394126848813,
+    "mae_pct_of_current": 0.8148131614350577,
+    "rmse_pct_of_current": 1.1473988932029222,
+    "no_change_mae_pct_of_current": 0.9460397409888445,
+    "no_change_rmse_pct_of_current": 1.3173002916586902
+   },
+   "naive_unconditional_quantiles": {
+    "pinball_loss": {
+     "p5": 0.0015766998694462784,
+     "p25": 0.004045203166051853,
+     "p50": 0.004640459154417103,
+     "p75": 0.0038043966732748693,
+     "p95": 0.0015755065675090965
+    },
+    "pinball_loss_mean": 0.0031284530861398403
+   },
+   "conformal_offsets": {
+    "interval_90": 0.00294794054425564,
+    "interval_50": 0.0011880658269551507
+   }
+  },
+  {
+   "test_period": [
+    "2020-01-01",
+    "2023-01-01"
+   ],
+   "train_rows": 4879,
+   "model": {
+    "n": 684,
+    "pinball_loss": {
+     "p5": 0.0013560372861135394,
+     "p25": 0.003937986604127115,
+     "p50": 0.005088548023583352,
+     "p75": 0.004376767285459035,
+     "p95": 0.001465875576951063
+    },
+    "pinball_loss_mean": 0.0032450429552468205,
+    "coverage_p5_p95": 0.8976608187134503,
+    "coverage_p25_p75": 0.41812865497076024,
+    "mean_width_p5_p95_pct": 4.00104892665694,
+    "mae_pct_of_current": 1.018400713767068,
+    "rmse_pct_of_current": 1.3612814170577119,
+    "no_change_mae_pct_of_current": 1.0207584103572604,
+    "no_change_rmse_pct_of_current": 1.371077496010675
+   },
+   "model_before_conformal": {
+    "n": 684,
+    "pinball_loss": {
+     "p5": 0.0013272235734110294,
+     "p25": 0.0038411566699398125,
+     "p50": 0.005088548023583352,
+     "p75": 0.004753210827904906,
+     "p95": 0.0020366719422035386
+    },
+    "pinball_loss_mean": 0.003409362207408528,
+    "coverage_p5_p95": 0.7251461988304093,
+    "coverage_p25_p75": 0.29239766081871343,
+    "mean_width_p5_p95_pct": 2.638536986241528,
+    "mae_pct_of_current": 1.018400713767068,
+    "rmse_pct_of_current": 1.3612814170577119,
+    "no_change_mae_pct_of_current": 1.0207584103572604,
+    "no_change_rmse_pct_of_current": 1.371077496010675
+   },
+   "naive_unconditional_quantiles": {
+    "pinball_loss": {
+     "p5": 0.0015844923744469147,
+     "p25": 0.004287236460465231,
+     "p50": 0.005330832649997394,
+     "p75": 0.0047064298907957625,
+     "p95": 0.0018482753486444294
+    },
+    "pinball_loss_mean": 0.003551453344869946
+   },
+   "conformal_offsets": {
+    "interval_90": 0.006826051329835765,
+    "interval_50": 0.0019809442390736013
+   }
+  },
+  {
+   "test_period": [
+    "2023-01-01",
+    "2027-01-01"
+   ],
+   "train_rows": 5563,
+   "model": {
+    "n": 779,
+    "pinball_loss": {
+     "p5": 0.0014142892644504108,
+     "p25": 0.003996431250075411,
+     "p50": 0.004884550290983238,
+     "p75": 0.003981166242800351,
+     "p95": 0.001597325208325171
+    },
+    "pinball_loss_mean": 0.0031747524513269162,
+    "coverage_p5_p95": 0.8947368421052632,
+    "coverage_p25_p75": 0.5738125802310655,
+    "mean_width_p5_p95_pct": 4.009182885544762,
+    "mae_pct_of_current": 0.977692685694937,
+    "rmse_pct_of_current": 1.4003281380898598,
+    "no_change_mae_pct_of_current": 1.0518385735244742,
+    "no_change_rmse_pct_of_current": 1.4834697953399434
+   },
+   "model_before_conformal": {
+    "n": 779,
+    "pinball_loss": {
+     "p5": 0.0013834212683292218,
+     "p25": 0.003795343898348247,
+     "p50": 0.004884550290983238,
+     "p75": 0.004274182871978538,
+     "p95": 0.0019322759081884643
+    },
+    "pinball_loss_mean": 0.003253954847565542,
+    "coverage_p5_p95": 0.7830551989730423,
+    "coverage_p25_p75": 0.355584082156611,
+    "mean_width_p5_p95_pct": 2.8922314912937184,
+    "mae_pct_of_current": 0.977692685694937,
+    "rmse_pct_of_current": 1.4003281380898598,
+    "no_change_mae_pct_of_current": 1.0518385735244742,
+    "no_change_rmse_pct_of_current": 1.4834697953399434
+   },
+   "naive_unconditional_quantiles": {
+    "pinball_loss": {
+     "p5": 0.001608568317454757,
+     "p25": 0.004321831739798941,
+     "p50": 0.005353264161551733,
+     "p75": 0.00466356797172852,
+     "p95": 0.002028114333615467
+    },
+    "pinball_loss_mean": 0.0035950693048298838
+   },
+   "conformal_offsets": {
+    "interval_90": 0.005598309224547259,
+    "interval_50": 0.003100594307025909
+   }
+  }
+ ],
+ "validation_pinball_curves": {
+  "p5": {
+   "first_iteration": 0.0016092484127423008,
+   "best_iteration": 95,
+   "best": 0.0013436739912698478,
+   "rounds_run": 135
+  },
+  "p25": {
+   "first_iteration": 0.00426805211218543,
+   "best_iteration": 299,
+   "best": 0.003534991101853791,
+   "rounds_run": 300
+  },
+  "p50": {
+   "first_iteration": 0.00504941274599568,
+   "best_iteration": 162,
+   "best": 0.004499404779488802,
+   "rounds_run": 202
+  },
+  "p75": {
+   "first_iteration": 0.004275508300431593,
+   "best_iteration": 103,
+   "best": 0.00381406568601793,
+   "rounds_run": 143
+  },
+  "p95": {
+   "first_iteration": 0.0017616414636552299,
+   "best_iteration": 69,
+   "best": 0.0015313679207172085,
+   "rounds_run": 109
+  }
+ }
+}

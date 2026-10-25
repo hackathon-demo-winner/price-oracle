@@ -1,0 +1,127 @@
+{
+ "status": "ok",
+ "url": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+ "retailer": "pcpartpicker",
+ "product_id": "3hyH99",
+ "product": {
+  "url": "https://pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+  "retailer": "pcpartpicker",
+  "product_id": "3hyH99",
+  "name": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor",
+  "price": 348.0,
+  "regular_price": 420.0,
+  "currency": "USD",
+  "availability": "in_stock",
+  "category": "Electronics",
+  "brand": null,
+  "sku": "100-100000910WOF",
+  "in_stock": true,
+  "is_first_party_seller": null,
+  "marketplace": {
+   "lowest_vendor": "Amazon",
+   "lowest_price": 348.0,
+   "highest_price": 420.0,
+   "price_spread": 72.0,
+   "vendors": 5
+  },
+  "cache_status": "miss",
+  "model_category": "computer_hardware"
+ },
+ "forecast": {
+  "horizon_days": 30,
+  "current_price": 348.0,
+  "quantiles": {
+   "p5": 363.13,
+   "p25": 416.3,
+   "p50": 420.53,
+   "p75": 425.68,
+   "p95": 460.31
+  },
+  "projected_delta_percent": 20.84,
+  "action": "BUY NOW"
+ },
+ "model": {
+  "name": "product_30d",
+  "training_data": "SYNTHETIC (semi-synthetic: real BLS category trend + real sale calendar + invented product dynamics)",
+  "training_data_is_synthetic": true,
+  "trained_at": "2026-10-11T22:10:04Z",
+  "history_mode": "snapshot_only",
+  "history_source": "none",
+  "history_note": "no price history source has data for this product"
+ },
+ "category_trend": {
+  "category": "computer_hardware",
+  "bls_series": "CUUR0000SEEE01",
+  "reference_month": "2026-08",
+  "next_month_index_change_percent": {
+   "p5": -2.405,
+   "p25": -1.226,
+   "p50": -0.237,
+   "p75": 0.672,
+   "p95": 2.342
+  },
+  "last_12m_change_percent": 8.43,
+  "training_data": "REAL: U.S. Bureau of Labor Statistics, CPI-U, U.S. city average, NSA (api.bls.gov v1)",
+  "note": "Category-level index, not this product's price."
+ },
+ "macro": {
+  "source": "Gemini Prediction Markets",
+  "status": "live",
+  "signals": {
+   "cpi_inflation_probability_next_30d": null,
+   "consumer_spending_expansion_odds": null,
+   "fed_hike_probability_next_meeting": 0.18500000000000003,
+   "fed_cut_probability_next_meeting": 0.025,
+   "recession_probability": 0.035,
+   "unemployment_above_5pct_probability": 0.11499999999999999,
+   "gdp_growth_above_2pct_probability": 0.8663663663663664
+  },
+  "unavailable": {
+   "cpi_inflation_probability_next_30d": "Gemini lists no CPI / inflation contract",
+   "consumer_spending_expansion_odds": "Gemini lists no consumer-spending or retail-sales contract"
+  },
+  "events_seen": {
+   "Economics": 10,
+   "Commodities": 18
+  },
+  "fetched_at": "2026-10-11T22:49:55Z",
+  "used_as_model_input": false,
+  "note": ""
+ },
+ "features": {
+  "price_ratio_to_30d_avg": null,
+  "price_ratio_to_90d_high": null,
+  "price_ratio_to_all_time_low": null,
+  "price_ratio_to_all_time_high": null,
+  "price_ratio_to_all_time_avg": null,
+  "rolling_7d_volatility": null,
+  "rolling_30d_volatility": null,
+  "days_since_last_price_change": null,
+  "frequency_of_discounts_per_quarter": null,
+  "history_days": null,
+  "price_ratio_to_regular": 0.828571,
+  "log_price": 5.852202,
+  "retailer_encoded": 3.0,
+  "product_category_encoded": 0.0,
+  "is_first_party_seller": null,
+  "event_days_to_major_sale": 2.0,
+  "in_sale_window_now": 1.0,
+  "target_in_sale_window": 0.0,
+  "month": 10.0,
+  "category_cpi_3m_change": 0.066121,
+  "category_cpi_12m_change": 0.084303,
+  "cpi_inflation_probability_next_30d": null,
+  "consumer_spending_expansion_odds": null
+ },
+ "warnings": [
+  "The model was trained on simulated price histories. Treat the forecast as experimental.",
+  "No price history is available for this product; the forecast uses only the current price, list price, retailer, category and calendar."
+ ],
+ "timings_ms": {
+  "scrape": 3.7,
+  "history": 0.0,
+  "gemini": 3.8,
+  "features_and_inference": 1.08,
+  "total": 5.3
+ }
+}

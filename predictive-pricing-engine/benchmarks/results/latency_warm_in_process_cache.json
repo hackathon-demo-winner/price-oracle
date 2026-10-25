@@ -1,0 +1,11 @@
+{
+ "scenario": "warm_in_process_cache",
+ "queries": 20,
+ "scraper": "SIMULATED",
+ "max_s": 0.014,
+ "p95_s": 0.014,
+ "p50_s": 0.008,
+ "ok": 20,
+ "timeout": 0,
+ "error": 0
+}

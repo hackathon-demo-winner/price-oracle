@@ -1,0 +1,133 @@
+{
+ "_recorded": {
+  "request": {
+   "url": "https://www.bestbuy.com/",
+   "formats": {
+    "product": true
+   }
+  },
+  "http_status": 200,
+  "elapsed_seconds": 14.45,
+  "recorded_at": "2026-10-11T21:54:26Z",
+  "rate_limit_headers": {
+   "x-ratelimit-limit": "1",
+   "x-ratelimit-mode": "concurrency",
+   "x-ratelimit-remaining": "0"
+  }
+ },
+ "response": {
+  "url": "https://www.bestbuy.com/",
+  "html": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "markdown": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "screenshot": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "images": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "bytes": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "parsed": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "product": {
+   "requested": true,
+   "success": true,
+   "data": {
+    "isProductPage": false,
+    "product": null
+   }
+  },
+  "highlights": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "json": {
+   "requested": false,
+   "success": null,
+   "data": null
+  },
+  "metadata": {
+   "title": "Best Buy | Official Online Store | Shop Now & Save",
+   "description": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. Store pickup & free 2-day shipping on thousands of items.",
+   "language": "en",
+   "canonicalUrl": "https://www.bestbuy.com/",
+   "headings": [
+    {
+     "level": 2,
+     "text": "TECHTOBER SALE"
+    },
+    {
+     "level": 2,
+     "text": "Shop deals by category"
+    },
+    {
+     "level": 2,
+     "text": "Order & Purchases"
+    },
+    {
+     "level": 2,
+     "text": "Payment Options"
+    },
+    {
+     "level": 2,
+     "text": "Support & Services"
+    },
+    {
+     "level": 2,
+     "text": "Rewards & Membership"
+    },
+    {
+     "level": 2,
+     "text": "Partnerships"
+    },
+    {
+     "level": 2,
+     "text": "About Best Buy"
+    },
+    {
+     "level": 2,
+     "text": "Get the latest deals and more."
+    }
+   ],
+   "additionalMeta": {
+    "origin-trial": "A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==",
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1",
+    "content-type": "text/html; charset=UTF-8",
+    "x-ua-compatible": "IE=Edge,chrome=1",
+    "p:domain_verify": "2fe2282e158c475589f2792766b66a79",
+    "analytics-metadata": "{\"customer\":{\"membership\":\"\"},\"page\":{\"type\":\"browse,home\",\"name\":\"homepage: Best Buy\",\"uberCat\":\"\",\"parentCat\":\"\",\"cat\":\"\",\"listCount\":\"\"},\"product\":{\"skuId\":\"\",\"bsin\":\"\",\"price\":\"\",\"brand\":\"\",\"dept\":\"\",\"class\":\"\",\"subclass\":\"\"}}",
+    "format-detection": "telephone=no",
+    "google-site-verification": "m-W1q8-oJor9ocSGQGJ20JBe3erIEfdx3YEY4YJUaB8"
+   }
+  },
+  "cache_metadata": {
+   "status": "miss",
+   "age_ms": 0
+  },
+  "key_metadata": {
+   "credits_consumed": 2,
+   "credits_remaining": 877
+  },
+  "request_id": "c4b313cd-06e2-4789-aeb7-96f0d2194931"
+ }
+}

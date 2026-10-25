@@ -1,0 +1,9 @@
+.venv/
+.cache/
+.scratch/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+data/price_logs/
+venv/

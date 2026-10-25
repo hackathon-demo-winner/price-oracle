@@ -1,0 +1,54 @@
+{
+ "request": {
+  "currentPrice": 14.99,
+  "regularPrice": null,
+  "category": "Beauty",
+  "retailer": "amazon",
+  "title": "Maybelline Lash Sensational Mascara",
+  "productId": null
+ },
+ "as_of": "2026-10-11",
+ "response": {
+  "success": true,
+  "forecast": {
+   "currentPrice": 14.99,
+   "quantiles": {
+    "lowest": 13.16,
+    "low": 15.02,
+    "mid": 15.05,
+    "high": 15.32,
+    "highest": 19.96
+   },
+   "projectedMid": 15.05,
+   "deltaPercentMonth": 0.4,
+   "recommendation": "BUY NOW",
+   "subtitle": "Model median is 0.4% higher in 30 days",
+   "confidence": null,
+   "model": {
+    "name": "product_30d",
+    "version": "2026-10-11-945d3da7",
+    "trainedOn": "synthetic",
+    "trainedAt": "2026-10-11T22:10:04Z",
+    "horizonDays": 30,
+    "historyMode": "snapshot_only",
+    "category": "beauty",
+    "retailer": "amazon"
+   },
+   "macro": {
+    "source": "Gemini Prediction Markets",
+    "signals": {
+     "cpi_inflation_probability_next_30d": null,
+     "consumer_spending_expansion_odds": null,
+     "fed_hike_probability_next_meeting": 0.185,
+     "fed_cut_probability_next_meeting": 0.025,
+     "recession_probability": 0.035,
+     "unemployment_above_5pct_probability": 0.115,
+     "gdp_growth_above_2pct_probability": 0.8664
+    },
+    "fetchedAt": "2026-10-11T22:49:01Z",
+    "usedByModel": false,
+    "heuristicAdjustmentPercent": 0.38
+   }
+  }
+ }
+}
